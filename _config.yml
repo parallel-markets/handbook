@@ -1,7 +1,7 @@
 # Site settings
 title: Handbook
-baseurl: "/handbook"
-url: "https://about.parallelmarkets.com" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/handbook"
+# url: "https://about.parallelmarkets.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -9,6 +9,7 @@ remote_theme: pmarsceill/just-the-docs
 
 plugins:
   - jekyll-minifier
+  - jekyll-github-metadata
 
 jekyll-minifier:
   uglifier_args:
