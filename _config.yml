@@ -1,0 +1,35 @@
+# Site settings
+title: Parallel Handbook
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: just-the-docs
+
+plugins:
+  - jekyll-minifier
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+
+search_enabled: true
+aux_links:
+  "Parallel Home": "https://about.parallelmarkets.com"
+
+gtm_id: GTM-NLM5KSZ
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Makefile
+  - README.md
