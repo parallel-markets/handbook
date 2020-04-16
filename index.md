@@ -7,7 +7,7 @@ _Last updated {{ site.time | date: '%B %d, %Y' }}._
 ## The Parallel Markets Employee Handbook
 ### Everything you need to know about making a career at Parallel Markets
 
-This Handbook first came into existence in April of 2020, as the company unanimously agreed to move to a [Remote First](/remote) paradigm.  With the uncertainty of COVID-19 we wanted to enshrine a set of values and work practices that could help make us stronger for the long term.
+This Handbook first came into existence in April of 2020, as the company unanimously agreed to move to a [Remote First]({% link work/index.md %}) paradigm.  With the uncertainty of COVID-19 we wanted to enshrine a set of values and work practices that could help make us stronger for the long term.
 
 This is where we’ll try to share what’s worth knowing about Parallel Markets the company, our culture, our process, and our history.  This Handbook also offers us an opportunity to clarify who we actually are as a company. What do we stand for? How should we work? Codifying those beliefs into a handbook makes them tangible and, most importantly, editable. Making the company our best product is a guiding principle, but we can’t easily improve what we haven’t articulated. So whatever version of this handbook you’re reading, you can be sure it’s not the last.  This Handbook is not only public, it's set up so that [anyone can submit an update](https://github.com/parallel-markets/handbook).  The goal is to have a real-world description of how we get work done, not just ideal-case prescriptions that don't mirror reality.
 

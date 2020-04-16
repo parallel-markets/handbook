@@ -1,6 +1,6 @@
 ---
 title: Employment
-nav_order: 2
+nav_order: 4
 ---
 # Employment Policies and Practices
 {: .no_toc }
