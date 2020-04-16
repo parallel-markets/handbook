@@ -7,3 +7,9 @@ This site uses [Jekyll](https://jekyllrb.com/) to build, and assumes you have ru
 ```shell
 $> make
 ```
+
+## Resources
+These are some resources that may be useful when crafting new sections / updating old ones:
+ * [This guide to creating handbooks](https://github.com/parallel-markets/handbook/commits/master)
+ * [Basecamp's Handbook](https://basecamp.com/handbook/)
+ * [Gitlab's Handbook](https://about.gitlab.com/handbook/)

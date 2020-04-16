@@ -1,6 +1,6 @@
 ---
-title: Hours and Compensation
-nav_order: 3
+title: Compensation
+nav_order: 5
 ---
 # Hours and Compensation
 
