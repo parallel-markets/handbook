@@ -9,6 +9,8 @@ plugins:
   - jekyll-minifier
   - jekyll-github-metadata
 
+permalink: pretty
+
 jekyll-minifier:
   uglifier_args:
     harmony: true

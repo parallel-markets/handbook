@@ -1,5 +1,6 @@
 ---
 parent: How We Work
+nav_order: 3
 ---
 # Coordination
 {: .no_toc }

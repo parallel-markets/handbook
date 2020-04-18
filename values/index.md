@@ -41,7 +41,7 @@ We want to work on the right things, doing exactly what's needed, without duplic
 We should constantly evaluate the relationship between the importance of a process and its resilience, adding support whenever there's a mismatch.  For instance, if only one person knows how to perform a critical business function, then it's time to teach someone else the process.  No one person should have sole administrator access to a third party service.  Any time an important process relies on a single person remembering to do something, it should be either automated or an email/slack alert should be set up.  Redundancy, [fail safes](https://en.wikipedia.org/wiki/Fail-safe), and automation should all play a role in critical business functions.
 
 ### Self-service and Self-learning
-If you encounter a question you can't answer, search for the answer first.  If you can't find it, then ask for help and make sure you [write it down](#write-things-down)
+If you encounter a question you can't answer, search for the answer first.  If you can't find it, then ask for help and make sure you [write it down](#write-things-down).
 
 ### Write Things Down
 We document everything - in this handbook, in meeting notes, proposals, retrospectives, etc.  It is far more efficient to read a document at your convenience than to have to ask and explain.  Make sure that what you write is available for others to easily find and contains the context necessary to be useful.
@@ -56,7 +56,7 @@ We value [initiative](#bias-for-action) and a [feeling of ownership](#agency).  
 The simplest (and most boring) solution is most often the best.  The more direct, simple, and easily explained a solution is the better.  Be [generous](#generosity) to those employees who will maintain your solution or project over the long term.
 
 ## Focus on Outcomes
-We do what we promised to each other, customers, users, and investors.
+We deliver on our promises to each other, customers, users, and investors.
 
 ### Agency
 If you do not like an idea or direction it is your responsiblity to work towards finding an alternative.  We value strong, independent thinkers who will innovate absent oversight. We strive to give our employees room to own and control every aspect of their projects, which ensures autonomy and accountability.  We give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes.
@@ -67,4 +67,4 @@ You can't improve what you can't measure, and you can't claim success if you can
 If something can break, and breaking is bad, track it.  If there's an important process the company relies on, make sure you can tell when it's broken.
 
 ### Bias for Action
-Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes.  Our bias for action also allows us to course correct quickly when mistakes are made.  We don't take the easy path of general complaints without including and supporting the groups that can affect change.
+Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes.  Our bias for action also allows us to course correct quickly when mistakes are made.  We don't take the easy path of general complaints without including and supporting the groups that can effect change.

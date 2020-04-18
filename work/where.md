@@ -1,5 +1,6 @@
 ---
 parent: How We Work
+nav_order: 2
 ---
 # Where We Work
 ## Office
