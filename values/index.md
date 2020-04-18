@@ -28,20 +28,20 @@ Don't defend a point to win an argument or double-down on a mistake. You do have
 ### Integrity
 Be a person of your word.  Do your best to set accurate deadlines and complete your work by those deadlines.  If you commit to helping with something, follow through.
 
-### Champion Good Ideas
+### Champion Good Ideas :loudspeaker:
 If you encounter a good idea - whether it's your idea or someone else's - promote it.  It doesn't matter if it's in your area of focus or not.  Stand up for the ideas that you think can make our company, our product, or our processes better.
 
-### Recognize Others :tada:
+### Recognize Others :clap:
 Recognize the people that helped you publicly.  When someone goes above and beyond expectations, make sure their hard work doesn't go unnoticed.
 
 ## Efficiency :runner:
 We want to work on the right things, doing exactly what's needed, without duplication.  If there's an opportunity to automate or streamline a costly process - make it better.
 
-### Increase Resilience
+### Increase Resilience :muscle:
 We should constantly evaluate the relationship between the importance of a process and its resilience, adding support whenever there's a mismatch.  For instance, if only one person knows how to perform a critical business function, then it's time to teach someone else the process.  No one person should have sole administrator access to a third party service.  Any time an important process relies on a single person remembering to do something, it should be either automated or an email/slack alert should be set up.  Redundancy, [fail safes](https://en.wikipedia.org/wiki/Fail-safe), and automation should all play a role in critical business functions.
 
-### Self-service and Self-learning
-If you encounter a question you can't answer, search for the answer first.  If you can't find it, then ask for help and make sure you [write it down](#write-things-down).
+### Self-service and Self-learning :raising_hand:
+If you encounter a question you can't answer, search for the answer first.  If you can't find it, then ask for help and make sure you [write it down](#write-things-down-notebook).
 
 ### Write Things Down :notebook:
 We document everything - in this handbook, in meeting notes, proposals, retrospectives, etc.  It is far more efficient to read a document at your convenience than to have to ask and explain.  Make sure that what you write is available for others to easily find and contains the context necessary to be useful.
@@ -62,7 +62,7 @@ We deliver on our promises to each other, customers, users, and investors.
 If you do not like an idea or direction it is your responsiblity to work towards finding an alternative.  We value strong, independent thinkers who will innovate absent oversight. We strive to give our employees room to own and control every aspect of their projects, which ensures autonomy and accountability.  We give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes.
 
 ### Track and Measure :bar_chart:
-You can't improve what you can't measure, and you can't claim success if you can't measure success.  On a personal level, you should agree [in writing](#write-things-down) on measureable goals and then [try to meet those goals](#integrity).  Your team, your department, and the company as a whole should do the same.
+You can't improve what you can't measure, and you can't claim success if you can't measure success.  On a personal level, you should agree [in writing](#write-things-down-notebook) on measureable goals and then [try to meet those goals](#integrity).  Your team, your department, and the company as a whole should do the same.
 
 If something can break, and breaking is bad, track it.  If there's an important process the company relies on, make sure you can tell when it's broken.
 

@@ -6,11 +6,10 @@ nav_order: 6
 Since we don't have the same opportunity for serendipitous encounters with co-workers, our interactions must be more intentional.  We should all make an effort to get to know each other on a personal level; these policies help accomplish that goal.
 
 ## Annual Meatspace Meeting
-
- - Company retreat - at least once a year - airfare / hotels for all staff
+Once a year, we gather for our annual meatspace meeting.  Everyone will be flown :airplane: to a single destination, where we get the chance to spend time together in [:meat_on_bone: meat space](https://en.wikipedia.org/wiki/Real_life).
 
 ## Promote Social Connection
- - Helping people socialize needs to be a top consideration - non-work topic slack channels, ad hoc video calls, etc
- - Prioritize work events where travel and physical interaction is involved (like company summits, meetups, events, conferences, etc.)
+There are a number of ways folks can connect outside of work contexts.  For instance, non-work topic slack channels, ad hoc video calls to discuss hobbies, etc are all encouraged.  We also prioritize work events where travel and physical interaction is involved (like meetups, events, conferences, etc.).
 
-## Weekly all-hands
+## Weekly All-hands
+The [Weekly All-hands](./coordination.md#weekly-all-hands) meeting is partially a time for us to get to know each other a little better.
