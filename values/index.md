@@ -14,7 +14,7 @@ Just like the rest of our work, we continually adjust our values and strive to m
 1. TOC
 {:toc}
 
-## Collaboration
+## Collaboration :handshake:
 We must all be able to work together effectively.  What's more, you should all be helping others, even when it is not immediately related to the goals that you are trying to achieve. Similarly, you can rely on others for help and advice. Anyone should be able to provide feedback on any subject.  The person who's responsible for the work decides how to do it, but they should always take each suggestion seriously and try to respond and explain why it may or may not have been implemented.
 
 ### Generosity
@@ -31,10 +31,10 @@ Be a person of your word.  Do your best to set accurate deadlines and complete y
 ### Champion Good Ideas
 If you encounter a good idea - whether it's your idea or someone else's - promote it.  It doesn't matter if it's in your area of focus or not.  Stand up for the ideas that you think can make our company, our product, or our processes better.
 
-### Recognize Others
+### Recognize Others :tada:
 Recognize the people that helped you publicly.  When someone goes above and beyond expectations, make sure their hard work doesn't go unnoticed.
 
-## Efficiency
+## Efficiency :runner:
 We want to work on the right things, doing exactly what's needed, without duplication.  If there's an opportunity to automate or streamline a costly process - make it better.
 
 ### Increase Resilience
@@ -43,25 +43,25 @@ We should constantly evaluate the relationship between the importance of a proce
 ### Self-service and Self-learning
 If you encounter a question you can't answer, search for the answer first.  If you can't find it, then ask for help and make sure you [write it down](#write-things-down).
 
-### Write Things Down
+### Write Things Down :notebook:
 We document everything - in this handbook, in meeting notes, proposals, retrospectives, etc.  It is far more efficient to read a document at your convenience than to have to ask and explain.  Make sure that what you write is available for others to easily find and contains the context necessary to be useful.
 
-### Be Respectful of Others' Time
+### Be Respectful of Others' Time :alarm_clock:
 Consider the time investment you are asking others to make.  For instance, try to avoid meetings, and, if one is necessary, try to make attendance optional for as many people as possible. Any meeting should have an agenda linked from the invite, and you should document the outcome. Instead of having people ask permission, trust their judgment and offer a consultation process if they have questions.
 
-### Communal Hats
+### Communal Hats :tophat:
 We value [initiative](#bias-for-action) and a [feeling of ownership](#agency).  If you see something that needs to be done, and you have the ability to help, then do it.  Whether this is cleaning up a communal area, writing up a suggestion for a new user feature, or helping recruit for an open position in a different department - your help is not only ideal it's required.  The phrase "not my job" isn't something that should ever prevent you from taking on a task that needs to be done.  Everyone wears many hats, hats that are communially owned by everyone.
 
 ### Prefer Boring Solutions
 The simplest (and most boring) solution is most often the best.  The more direct, simple, and easily explained a solution is the better.  Be [generous](#generosity) to those employees who will maintain your solution or project over the long term.
 
-## Focus on Outcomes
+## Focus on Outcomes :trophy:
 We deliver on our promises to each other, customers, users, and investors.
 
 ### Agency
 If you do not like an idea or direction it is your responsiblity to work towards finding an alternative.  We value strong, independent thinkers who will innovate absent oversight. We strive to give our employees room to own and control every aspect of their projects, which ensures autonomy and accountability.  We give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes.
 
-### Track and Measure
+### Track and Measure :bar_chart:
 You can't improve what you can't measure, and you can't claim success if you can't measure success.  On a personal level, you should agree [in writing](#write-things-down) on measureable goals and then [try to meet those goals](#integrity).  Your team, your department, and the company as a whole should do the same.
 
 If something can break, and breaking is bad, track it.  If there's an important process the company relies on, make sure you can tell when it's broken.

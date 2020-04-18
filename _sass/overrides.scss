@@ -15,3 +15,5 @@
 a.navigation-list-link.active {
     font-weight: bold;
 }
+
+@media (min-width: 31.25rem) { .site-title { font-size: 20px !important; } }

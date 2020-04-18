@@ -1,5 +1,5 @@
 # Site settings
-title: Handbook
+title: Parallel Handbook
 
 # Build settings
 markdown: kramdown
@@ -8,6 +8,7 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-minifier
   - jekyll-github-metadata
+  - jemoji
 
 permalink: pretty
 
