@@ -32,4 +32,6 @@ https://basecamp.com/handbook/10-how-we-work#asynchronously
  - There can’t be bias toward one time zone
  - no start till all can attend
 
+standup formats
+
 weekly all hands
