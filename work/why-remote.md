@@ -6,9 +6,9 @@ nav_order: 1
 In April of 2020 the company unanimously agreed to move to a Remote First paradigm.  With the uncertainty of COVID-19 we wanted to enshrine a set of values and work practices that could help make us stronger for the long term.  We continue to believe this is the right path based on the benefits listed here.
 
 ## Employee Benefits
-1. You have more flexibility in your daily life (for kids, parents, friends, groceries, sports, deliveries).
+1. You have more flexibility in your daily life (for kids, parents, friends, pets, groceries, sports, deliveries, etc.).
 1. No commute! :car:
-1. You have the freedom to relocate, be location independent, or even travel with other remote professionals.
+1. You have the freedom to relocate, be location independent or even travel with other remote professionals.
 1. You can choose your working hours based on when you're most productive.
 
 ## Company Benefits
