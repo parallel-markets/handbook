@@ -15,7 +15,7 @@ parent: Conduct
 Parallel is committed to maintaining a workplace free of unlawful harassment. Parallel strictly prohibits and does not tolerate unlawful harassment against employees, interns, whether paid or unpaid, independent contractors, or any other covered persons because of race, color, religion, creed, national origin, ancestry, sex, gender, gender identity or expression (including status as a transgender individual), age, sexual orientation (including actual or perceived heterosexuality, homosexuality, bisexuality, and asexuality), physical or mental disability (including gender dysphoria and similar gender-related conditions), citizenship, genetic information or predisposing genetic characteristics, marital status, familial status, domestic violence victim status, military status, including past, current, or prospective service in the uniformed services, or any other characteristic protected under applicable federal, New York, or local law.
 
 ## Sexual Harassment
-All Parallel employees, other workers, and their employees and representatives (including vendors, customers, subscribers,clients and visitors) are prohibited from harassing employees, interns, independent contractors, and other covered persons based on that individual’s sex, gender, sexual identity or transgender status and regardless of the harasser’s sex or gender.
+All Parallel employees, other workers, and their employees and representatives (including vendors, customers, subscribers, clients and visitors) are prohibited from harassing employees, interns, independent contractors, and other covered persons based on that individual’s sex, gender, sexual identity or transgender status and regardless of the harasser’s sex or gender.
 
 Sexual harassment means any harassment based on someone’s sex, gender, sexual orientation, sexual identity or transgender status. Sexual harassment can occur between any individuals, regardless of their sex or gender. Sexual harassment is considered a form of employee misconduct. Appropriate disciplinary action will be taken against individuals engaging in sexual harassment and against supervisory and managerial personnel who knowingly allow such behavior to continue. 
 
@@ -122,7 +122,7 @@ Supervisors and managers will also be subject to discipline for engaging in any 
 Any employee, regardless of position or title, whom Parallel determines has subjected an individual to harassment or retaliation in violation of this policy, or has knowingly allowed such behavior to continue, will be subject to discipline, up to and including termination of employment.
 
 ## Administration of This Policy
-The People Opts Team is responsible for the administration of this policy. If you have any questions regarding this policy or questions about harassment that are not addressed in this policy, please contact the Human Resources Department.
+The People Ops Team is responsible for the administration of this policy. If you have any questions regarding this policy or questions about harassment that are not addressed in this policy, please contact the Human Resources Department.
 
 ## Conduct Not Prohibited by this Policy
 This policy is not intended to restrict communications or actions protected or required by state or federal law.
