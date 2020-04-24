@@ -14,9 +14,9 @@ nav_order: 4
 ## Employment Offers
 Offers of employment for all positions at the Company may be extended only by authorized managers and are contingent on a number of factors, including, but not limited to, the following:
 
- * Verification of verification of identity, employment eligibility and criminal background (Parallel will not employ any individual unless they are legally approved to work in the United States, in compliance with immigration laws), 
+ * Verification of identity, employment eligibility and criminal background (Parallel will not employ any individual unless they are legally approved to work in the United States, in compliance with immigration laws), 
  * Checking of references, prior employment and educational qualifications listed on the employment application and 
- * Signing of the relevant employment documentation, including this handbook, an inventions assignment agreement and other definitive documentation.
+ * Signing of the relevant employment documentation, including this Handbook, an inventions assignment agreement and other definitive documentation.
 
 ## Employment at Will
 All employees of the Company, with the exception of those with written employment agreements that include provisions to the contrary, are employees at will and, as such, are free to resign at any time with or without reason. Parallel, likewise, retains the right to terminate an employee’s employment at any time with or without reason or notice.
