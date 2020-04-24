@@ -17,7 +17,8 @@ Skip one-on-ones, or meetings between a manager and a direct report's direct rep
 Every quarter, each employee will be reviewed based on the extent to which they embody the [company values](../values/index.md).  Employees will also write a review of their boss, to be shared ***only*** with their boss' boss.  If you manage direct reports, then part of your review will include your direct reports' feedback.
 
 ## Results Not Hours
-Managers should be [focused on outcomes](../values/index.md#focus-on-outcomes-trophy), not hours worked.  Employees should be evaluated based on what they accomplish overall, not on how long it took to do it.
+Managers should be [focused on outcomes](../values/index.md#focus-on-outcomes-trophy), not hours worked.  Employees should be evaluated based on what they accomplish overall, not on how long it took to do it. In short we care about what you achieve: the code you shipped, the user you made happy, and the team member you helped. Someone who took the afternoon off shouldn’t feel like they did something wrong as long as they are performing at their best. You don’t have to defend how you spend your day, but you will be held accountable for your output. We trust team members to do the right thing instead of having rigid rules. No one will be rewarded just for putting in a lot of hours, and we discourage people from using “how many hours they spent working" as a badge of honor or as a defense for a lack of output.
+
 
 ## Recognition
 When your direct report, manager, or peer does something great, [make sure they get recognition](../values/index.md#recognize-others-clap).  People ***must*** know their work is valued; in a remote first environment, it can be harder to make sure people know this.  Extra, explicit effort to recognize achievement is warranted.
