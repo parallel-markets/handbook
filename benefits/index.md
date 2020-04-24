@@ -1,9 +1,17 @@
 ---
 title: Benefits
-nav_order: 7
+nav_order: 6
 ---
 # Benefits
+{: .no_toc }
+
 At Parallel, we invest in our employees' well-being and empower them with benefits provided through [JustWorks](https://secure.justworks.com/benefits/company_benefits_overviews/7b44def0-2f3e-437b-bc6b-fb31f5dc464f/show). As part of your onboarding, you will be required to complete an account setup with JustWorks in order to receive paychecks, enroll in a medical plan and, to the extent you would like, set up contributions to a 401(k), among other benefits. You will be required to designate your desired plan when you join Parallel and again each November when our Aetna policy renews. This section of the Handbook provides an overview of Parallel's benefits program. You should refer to the plan documents themselves, which are controlling, or reach out to the [People Ops Team](mailto:people@parallelmarkets.com) to the extent you have any questions regarding your benefits package.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Health Insurance
 Parallel's medical, dental and vision plans all fall under the Aetna umbrella. Typically, coverage will be available beginning on the first of the month, following your hire date. Details regarding each of these plans follows.
