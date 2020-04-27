@@ -4,7 +4,7 @@ nav_order: 7
 # Security
 {: .no_toc }
 
-Given the sensitive nature of the information we deal with, security is of paramount importance.  This section contains some of our high level guidelines for helping ensure the safety and security of our confidential information.  This list is certainly not complete and represents a small subset of our overall security guidelines found in the Company's Security Policy.
+Security is of paramount importance at Parallel given the sensitive nature of the information we deal with. This section contains some of our high level guidelines for helping ensure the safety and security of our confidential information. This list is certainly not complete and only represents a small subset of our overall security guidelines found in our Security Policy.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -21,13 +21,13 @@ Use a password manager!  [Wirecutter](https://thewirecutter.com/reviews/best-pas
 1. Don't share passwords (with co-workers, friends, strangers, or any other people, living or dead :ghost:).  Every person should have their own account on every service.
 
 ### Multi-Factor Authentication :iphone:
-You should use [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (aka, 2 Factor Authentication, aka 2FA) for every service that provides it.  For most Company services, this is mandatory.
+You should use [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (aka, 2 Factor Authentication, aka 2FA) for every service that provides it.  Note that 2FA is mandatory for most Parallel services.
 
-1. Always prefer a Time-based One-time Password option (a number that changes every 30 seconds) over text message.  SMS 2FA is vulnerable to an attack known as [a SIM Swap](https://www.wired.com/story/sim-swap-attack-defend-phone/).
-1. Use an app like [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&ref_topic=2954345) or [Authy](https://authy.com) to provide your Time-based One-time Passwords
-1. Some services allow you to download "backup codes" that you can use instead of a time based code in case you loose your phone (or access to your time based password generator).  Make sure you store these somewhere safe!
+1. Always prefer a time-based one-time password option (a number that changes every 30 seconds) over text message.  SMS 2FA is vulnerable to an attack known as [a SIM Swap](https://www.wired.com/story/sim-swap-attack-defend-phone/).
+1. Use an app like [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&ref_topic=2954345) or [Authy](https://authy.com) to provide your time-based one-time passwords
+1. Some services allow you to download "backup codes" that you can use instead of a time-based code in case you lose your phone (or access to your time-based password generator).  Make sure you store these somewhere safe!
 
-### Secure Browsing
+### Secure Browsing :computer:
 While browser extensions are easy to install and test out, make sure you only install extensions from sources you trust.  Here are a few extensions we do recommend:
 
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere) - ensure that you only visit sites that support encrypted HTTP
@@ -43,7 +43,7 @@ Here are some general guidelines for email:
 1. When in doubt, reach out to [security@parallelmarkets.com](mailto:security@parallelmarkets.com).
 
 ## Hardware :desktop_computer:
-All company hardware should have the company's device profile installed to enable remote lock/wipe in case your laptop is stolen.  Your device should also:
+All Company hardware should have the Company's device profile installed to enable remote lock/wipe in case your laptop is stolen.  Your device should also:
 
 1. Have full hard drive encryption enabled (for OSX, [use FileVault](https://support.apple.com/en-us/HT204837)).
 1. Make sure you have your screensaver set to lock your computer after a short period of activity (and require a password)
@@ -53,5 +53,5 @@ All company hardware should have the company's device profile installed to enabl
 ## Humans :bust_in_silhouette:
 Be familiar with the general approaches used in [social engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)), and know that you could be targeted based on your access to highly sensitive personal information.  You should understand the vectors used, like [Vishing :phone:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Vishing), [Phishing :fishing_pole_and_fish:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Phishing), and [Smishing :iphone:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Smishing).
 
-## Network
+## Network :satellite:
 In general, we operate with a stance of [Zero Trust](https://en.wikipedia.org/wiki/Zero_Trust).  We assume that our internal networks could be compromised and seek to secure resources rather than networks.  Given the nature of our [remote workforce](../work/index.md) and our utilization of cloud services, we cannot assume that resources are located within an enterprise-owned network boundary.
