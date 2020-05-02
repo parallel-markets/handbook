@@ -50,10 +50,10 @@ We document everything - in this Handbook, in meeting notes, proposals, retrospe
 Consider the time investment you are asking others to make.  For instance, try to avoid meetings, and, if one is necessary, try to make attendance optional for as many people as possible. Any meeting should have an agenda linked from the invite, and you should document the outcome. Instead of having people ask permission, trust their judgment and offer a consultation process if they have questions.
 
 ### Communal Hats :tophat:
-We value [initiative](#bias-for-action) and a [feeling of ownership](#agency).  If you see something that needs to be done, and you have the ability to help, then do it.  Whether this is cleaning up a communal area, writing up a suggestion for a new user feature or helping recruit for an open position in a different department - your help is not only ideal, it is required.  The phrase "not my job" isn't something that should ever prevent you from taking on a task that needs to be done.  Everyone wears many hats, hats that are communally owned by everyone.
+We value [initiative](#bias-for-action-clapper) and a [feeling of ownership](#agency-raised_hands).  If you see something that needs to be done, and you have the ability to help, then do it.  Whether this is cleaning up a communal area, writing up a suggestion for a new user feature or helping recruit for an open position in a different department - your help is not only ideal, it is required.  The phrase "not my job" isn't something that should ever prevent you from taking on a task that needs to be done.  Everyone wears many hats, hats that are communally owned by everyone.
 
 ### Prefer Boring Solutions
-The simplest (and most boring) solution is most often the best.  The more direct, simple and easily explained a solution is, the better.  Be [generous](#generosity) to those employees who will maintain your solution or project over the long term.
+The simplest (and most boring) solution is most often the best.  The more direct, simple and easily explained a solution is, the better.  Be [generous](#generosity-pray) to those employees who will maintain your solution or project over the long term.
 
 ## Focus on Outcomes :trophy:
 Do not rely on "the way we've always done it." We deliver on our promises to each other, our customers, our users and our investors, especially if that means changing things up a bit.
@@ -62,7 +62,7 @@ Do not rely on "the way we've always done it." We deliver on our promises to eac
 If you do not like an idea or direction, it is your responsiblity to work towards finding an alternative.  We value strong, independent thinkers who will innovate absent oversight. We strive to give our employees room to own and control every aspect of their projects, which ensures autonomy and accountability.  We prefer to give people total responsibility over a decision and to hold them accountable for those actions versus imposing rules and approval processes.
 
 ### Track and Measure :bar_chart:
-You can't improve what you can't measure, and you can't claim success if you can't measure success.  On a personal level, you should agree [in writing](#write-things-down-notebook) on measureable goals and then [try to meet those goals](#integrity).  Your team, your department, and the Company as a whole should do the same.
+You can't improve what you can't measure, and you can't claim success if you can't measure success.  On a personal level, you should agree [in writing](#write-things-down-notebook) on measureable goals and then [try to meet those goals](#integrity-closed_lock_with_key).  Your team, your department, and the Company as a whole should do the same.
 
 If something can break, and breaking is bad, track it.  If there's an important process the Company relies on, make sure you can tell when it's broken.
 
