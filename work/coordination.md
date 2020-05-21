@@ -33,7 +33,7 @@ Documentation **should** live in these places:
  * This handbook
  * Documents in the appropriate Google Shared Drive
  * GitHub comments for repositories / projects that live there
- * Asana tasks and comments
+ * [Clubhouse](#clubhouse) stories and comments
 
 These locations **do not** count as documentation:
 
@@ -63,8 +63,8 @@ Our Slack workspace is one of the main ways we communicate.  In general, we pref
 ### GitHub
 GitHub is used to version all of our product code, technical documentation and other text-based projects like this Handbook.  In general, projects should be public (like this Handbook) unless they are confidential.
 
-### Asana
-We use Asana to keep track of "To Do" lists per project.  Your team may use Asana however it makes everyone more productive, but you should [document your team's process](#documentation-notebook).
+### Clubhouse
+We use [Clubhouse](https://clubhouse.io) to keep track of "To Do" lists per project.  Your team may use Clubhouse however it makes everyone more productive, but you should [document your team's process](#documentation-notebook).
 
 ### Email
 Email is a last resort for internal communication (though often the only choice for external communication).
