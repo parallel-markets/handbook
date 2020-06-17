@@ -63,7 +63,8 @@ We designate nine holidays each calendar year for employees in the United States
 * New Year’s Day
 * Martin Luther King, Jr. Day 
 * Presidents' Day
-* Memorial Day 
+* Memorial Day
+* Juneteenth
 * Independence Day 
 * Labor Day 
 * Thanksgiving 
