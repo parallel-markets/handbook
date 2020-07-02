@@ -4,6 +4,7 @@ title: Parallel Handbook
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
+color_scheme: parallel
 
 plugins:
   - jekyll-minifier
