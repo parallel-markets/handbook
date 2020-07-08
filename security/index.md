@@ -34,6 +34,12 @@ While browser extensions are easy to install and test out, make sure you only in
 * [Privacy Badger](https://privacybadger.org) - A tool from the EFF, Privacy Badger automatically learns to block invisible trackers.
 * [uBlock Origin](https://github.com/gorhill/uBlock#installation) - blocks ads and the data they collect
 
+### Form autofill :memo:
+Form autofill is [known](https://www.popularmechanics.com/technology/security/a24687/autofill-bad/) [to be](https://www.techadvisory.org/2019/01/the-dangers-of-autocomplete-passwords/) [dangerous](https://thehackernews.com/2017/01/browser-autofill-phishing.html) since it can share more information than you intended without your consent. We recommend turning form autofill off in your browser:
+
+* Google Chrome - go to [address autofill settings](chrome://settings/addresses) and [payment methods settings](chrome://settings/payments)
+* Mozilla Firefox - go to [privacy preferences](about:preferences#privacy) and scroll down to **Forms and Autofill**
+
 ### Email :email:
 Here are some general guidelines for email:
 
