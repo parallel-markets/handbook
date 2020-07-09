@@ -23,7 +23,7 @@ Currently, Parallel offers medical benefits under four different plans: the Aetn
 Currently, Parallel offers dental benefits under two different plans, the Aetna Dental DMO and the Aetna Dental PPO (all details can be found [here][1]). Similar to the medical plan, you will have the optionality to cover yourself individually or your entire family. 
 
 ### Vision Plan Details
-Currently, Parallel offers dental benefits under two different plans, the Aetna Vision and Aetna Vision+ plans (all details can be found [here][1]). Similar to the medical and dental plans, you will have the optionality to cover yourself individually or your entire family.
+Currently, Parallel offers vision benefits under two different plans, the Aetna Vision and Aetna Vision+ plans (all details can be found [here][1]). Similar to the medical and dental plans, you will have the optionality to cover yourself individually or your entire family.
 
 ## Other Health Benefits
 ### Flexible Spending Account (FSA)
