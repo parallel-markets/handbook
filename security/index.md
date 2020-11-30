@@ -37,6 +37,7 @@ While browser extensions are easy to install and test out, make sure you only in
 ### Form autofill :memo:
 Form autofill is [known](https://www.popularmechanics.com/technology/security/a24687/autofill-bad/) [to be](https://www.techadvisory.org/2019/01/the-dangers-of-autocomplete-passwords/) [dangerous](https://thehackernews.com/2017/01/browser-autofill-phishing.html) since it can share more information than you intended without your consent. We recommend turning form autofill off in your browser:
 
+* Apple Safari - go to settings (Safari ➡️ Preferences in the menu), then choose the AutoFill and [uncheck all checkboxes](https://support.apple.com/guide/safari/autofill-ibrwa005/mac).
 * Google Chrome - go to [address autofill settings](chrome://settings/addresses) and [payment methods settings](chrome://settings/payments)
 * Mozilla Firefox - go to [privacy preferences](about:preferences#privacy) and scroll down to **Forms and Autofill**
 
@@ -51,7 +52,7 @@ Here are some general guidelines for email:
 ## Hardware :desktop_computer:
 All Company hardware should have the Company's device profile installed to enable remote lock/wipe in case your laptop is stolen.  Your device should also:
 
-1. Have full hard drive encryption enabled (for OSX, [use FileVault](https://support.apple.com/en-us/HT204837)).
+1. Have full hard drive encryption enabled (for macOS, [use FileVault](https://support.apple.com/en-us/HT204837)).
 1. Make sure you have your screensaver set to lock your computer after a short period of activity (and require a password)
 1. Never leave your phone or laptop unattended in a public place (for instance, [at a coffeeshop](../work/where/#coffee-shops-coffee-and-co-working-spaces)).  Even if you leave your computer alone with a stranger for only a minute, [quick physical access is all that's required to hack your computer](https://en.wikipedia.org/wiki/Physical_access).
 1. Ensure all of the important files on your devices are backed up [in one of our tools](../work/coordination/#communications-tools).  All computers eventually die, act as though yours could expire any day.
