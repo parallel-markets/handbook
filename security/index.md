@@ -60,5 +60,9 @@ All Company hardware should have the Company's device profile installed to enabl
 ## Humans :bust_in_silhouette:
 Be familiar with the general approaches used in [social engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)), and know that you could be targeted based on your access to highly sensitive personal information.  You should understand the vectors used, like [Vishing :phone:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Vishing), [Phishing :fishing_pole_and_fish:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Phishing), and [Smishing :iphone:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Smishing).
 
+If you have a company issued laptop, you should not allow any other person to use it for any reason.  It is possible that someone could unwittingly visit a website with [malvertising](https://en.wikipedia.org/wiki/Malvertising) or one that takes advantage of [a browser vulnerability](https://www.zdnet.com/article/google-patches-two-more-chrome-zero-days/).  Hopefully, that risk is mitigated if you are careful to only visit sites that are work related (which can only be assured if you are the only person using company equipment issued to you).
+
 ## Network :satellite:
 In general, we operate with a stance of [Zero Trust](https://en.wikipedia.org/wiki/Zero_Trust).  We assume that our internal networks could be compromised and seek to secure resources rather than networks.  Given the nature of our [remote workforce](../work/index.md) and our utilization of cloud services, we cannot assume that resources are located within an enterprise-owned network boundary.
+
+To help reduce networking risks, we utilize [Cloudflare for Teams](https://www.cloudflare.com/teams/).  Everyone should install and utilize the Warp client (instructions can be found [here](https://docs.google.com/document/d/1gd_BvZug6p0SD9j77njP3fSa33nyM3cNOMAbqJ5C7fA/edit)).
