@@ -22,7 +22,7 @@ Whether you are an employee with a company laptop or a contractor using your own
 1. Never leave your phone or laptop unattended in a public place (for instance, [at a coffeeshop]({% link work/where.md %}#coffee-shops-coffee-and-co-working-spaces)).  Even if you leave your computer alone with a stranger for only a minute, [quick physical access is all that's required to hack your computer](https://en.wikipedia.org/wiki/Physical_access).
 1. Ensure all of the important files on your devices are backed up [in one of our tools]({% link work/coordination.md %}#communications-tools).  All computers eventually die, act as though yours could expire any day.
 1. Never download/save any customer or user data to your local computer.
-1. When traveling, make sure to complete power off your computer (choose the full "shut down" option, don't just close the lid or "hibernate").
+1. When traveling, make sure to completely power off your computer (choose the full "shut down" option, don't just close the lid or "hibernate").
 1. Do not allow your web browser (e.g. Chrome, Safari, Firefox) to store passwords when prompted. This presents an unnecessary risk and is redundant.
 
 ## Personal Computers :desktop_computer:
