@@ -69,4 +69,4 @@ Any team member or contractor found to be in violation of this policy may be sub
 
 ## Related Documents and Handbook Entries
 
-See the pages on [Devices](../devices) and [Proceedures](../proceedures) for additional requirements for employees and contractors.
+See the pages on [Devices](../devices) and [Processes](../processes) for additional requirements for employees and contractors.
