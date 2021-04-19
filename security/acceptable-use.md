@@ -19,7 +19,7 @@ It is the responsibility of every member of our team to interact with Parallel M
 
 ## Policy Scope
 
-This policy applies to all Parallel Markets' team-members, contractors, advisors, and contracted parties interacting with Parallel Markets' computing resources and accessing company or customer data.
+This policy applies to all Parallel Markets team members, contractors, advisors and contracted parties interacting with Parallel Markets' computing resources and accessing company or customer data.
 
 ## Acceptable Use and Security Requirements of Computing Resources
 
