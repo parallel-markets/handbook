@@ -16,7 +16,7 @@ If you are an employee, Parallel will send you a laptop that you will use to do 
 
 ## All Devices :100:
 
-Whether you are an employee with a company laptop or a contractor using your own computer, you are expected to follow to perform the following:
+Whether you are an employee with a company laptop or a contractor using your own computer, you are expected to follow these guidelines:
 
 1. Make sure you have your screensaver set to lock your computer after a short period of activity (and require a password).
 1. Never leave your phone or laptop unattended in a public place (for instance, [at a coffeeshop]({% link work/where.md %}#coffee-shops-coffee-and-co-working-spaces)).  Even if you leave your computer alone with a stranger for only a minute, [quick physical access is all that's required to hack your computer](https://en.wikipedia.org/wiki/Physical_access).
