@@ -29,7 +29,11 @@ Whether you are an employee with a company laptop or a contractor using your own
 
 If you are using a personal computer as a contractor, you will not be able to have access to any sensitive areas of our various tools (including any of our admin areas and some third party vendors).
 
-If you are an employee, you should not use your personal devices for any company work.  Company proprietary information (code, documents, etc) should never be downloaded to personal devices.
+If you are an employee, you should not use your personal devices for any company work, with the sole exception below.  Company proprietary information (code, documents, etc) should never be downloaded to personal devices.
+
+### Personal Mobile Phone and Tablet Usage :iphone:
+
+All personal mobile computing devices used to access Parallel-managed data, including but not limited to email, Slack, and ParallelMarkets.com, must be passcode-enabled. 2FA will be enforced by the Security team for all employee and contractor ParallelMarkets.com and Google Workspace accounts. Mobile computing best practices dictate that these devices should be running the latest version of the operating system available, and all new patches applied. For assistance with determining the suitability of your mobile device, please contact the [Security Team](mailto:security@parallelmarkets.com).
 
 ## Company Issued Computers :computer:
 
