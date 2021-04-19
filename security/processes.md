@@ -20,6 +20,8 @@ This page contains details on
 
 Do not sign up for a new service on behalf of Parallel without first receiving permission from [mailto:security@parallelmarkets.com](security@parallelmarkets.com)
 
+This includes signing into web pages and web apps using your @parallelmarkets.com Google sign-in.
+
 ### Passwords
 Use a password manager!  A password manager let you memorize one strong password, and then it generates and manages strong, unique passwords for every site for which you have a login.  Employees can install [LastPass](https://www.lastpass.com/) or [1password](https://1password.com/) via the Self Service App that is installed on your company device.
 
