@@ -58,7 +58,8 @@ Form autofill is [known](https://www.popularmechanics.com/technology/security/a2
 * Apple Safari - go to settings (Safari, then Preferences in the menu), then choose the AutoFill and [uncheck all checkboxes](https://support.apple.com/guide/safari/autofill-ibrwa005/mac).
 * Google Chrome - go to [address autofill settings](chrome://settings/addresses) and [payment methods settings](chrome://settings/payments)
 * Mozilla Firefox - go to [privacy preferences](about:preferences#privacy) and scroll down to **Forms and Autofill**
-
+ * MS Edge - go to [address autofill settings](edge://settings/addresses) and [payment method settings](edge://settings/payments)
+ 
 ## Email :email:
 Here are some general guidelines for email:
 
