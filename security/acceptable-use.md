@@ -42,7 +42,7 @@ Prohibited system and network activities include, but are not limited to, the fo
 - Intentional misuse of any Parallel-managed computing device or Parallel networks (e.g. for cryptocurrency mining, botnet control, etc.).
 - Sharing your credentials for any Parallel-managed computer or 3rd-party service that Parallel uses with others, or allowing use of your account or a Parallel-managed computer by others. This prohibition does not apply to single-sign-on or similar technologies, the use of which is approved.
 - Using a Parallel computing asset to procure or transmit material that is in violation of sexual harassment policies or that creates a hostile workplace.
-- Making fraudulent offers of products, items, or services originating from any Parallel account.
+- Making fraudulent offers of products, items or services originating from any Parallel account.
 - Intentionally accessing data or logging into a computer or account that the team member or contractor is not authorized to access, or disrupting network communication, computer processing, or access.
 - Executing any form of network monitoring that intercepts data not intended for the team member's or contractor's computer, except when troubleshooting networking issues for the benefit of Parallel.
 - Circumventing user authentication or security of any computer host, network, or account used by Parallel Markets.
