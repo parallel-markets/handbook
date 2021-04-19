@@ -36,7 +36,7 @@ Team members and contractors may **not** use Parallel-managed resources for acti
 Prohibited system and network activities include, but are not limited to, the following:
 
 - Violations of the rights of any person or company protected by copyright, trade secret, patent or other intellectual property or similar laws or regulations.
-- Unauthorized copying, distribution, or use of copyrighted material.
+- Unauthorized copying, distribution or use of copyrighted material.
 - Exporting software, technical information, encryption software, or technology in violation of international or national export control laws.
 - Intentional introduction of malicious programs into Parallel networks or any Parallel-managed computing device.
 - Intentional misuse of any Parallel-managed computing device or Parallel networks (e.g. for cryptocurrency mining, botnet control, etc.).
