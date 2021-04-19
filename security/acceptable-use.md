@@ -23,7 +23,7 @@ This policy applies to all Parallel Markets team members, contractors, advisors 
 
 ## Acceptable Use and Security Requirements of Computing Resources
 
-Parallel-managed assets are provided to conduct Parallel business with consideration given for limited personal use. Our company uses global electronic communications and resources as routine parts of our business activities. It is essential that electronic resources used to perform company business are protected to ensure that these resources are accessible for business purposes and operated in a cost-effective manner, that our company’s reputation is protected, and that we minimize the potential for legal risk.
+Parallel-managed assets are provided to conduct Parallel business with consideration given for limited personal use. Our company uses global electronic communications and resources as routine parts of our business activities. It is essential that electronic resources used to perform company business are protected to ensure that these resources are accessible for business purposes and operated in a cost-effective manner, that our company’s reputation is protected and that we minimize the potential for legal risk.
 
 Those receiving Parallel-provided assets are responsible for exercising good judgment when using Parallel-managed computers and accessing Parallel-managed data.
 
