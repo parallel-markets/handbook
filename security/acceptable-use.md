@@ -63,7 +63,7 @@ All Parallel-owned computing resources must be returned upon separation from the
 
 ## Policy Compliance
 
-Compliance with this policy will be verified through various methods, including but not limited to, automated reporting, audits, and feedback to the policy owner.
+Compliance with this policy will be verified through various methods, including but not limited to, automated reporting, audits and feedback to the policy owner.
 
 Any team member or contractor found to be in violation of this policy may be subject to disciplinary action, up to and including termination of employment, or contractual agreement.
 
