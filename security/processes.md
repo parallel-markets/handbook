@@ -63,7 +63,7 @@ Form autofill is [known](https://www.popularmechanics.com/technology/security/a2
 ## Email :email:
 Here are some general guidelines for email:
 
-1. If you get an email that looks suspicious, forward the email to our IT support at [security@parallelmarkets.com](mailto:security@parallelmarkets.com).
+1. If you get an email that looks suspicious, forward the email to [security@parallelmarkets.com](mailto:security@parallelmarkets.com).
 1. An email can be suspicious, even if it's from someone you know, if there's an unexpected link :link: or attachment :file_folder:.
 1. Don't be afraid to reach out to anyone directly to ask if they sent something you weren't expecting (for instance, reach out on Slack).
 1. Follow the guidelines for identifying phishing emails provided [in this guide](https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email).
