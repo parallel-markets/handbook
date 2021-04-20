@@ -8,7 +8,7 @@ title: Acceptable Use
 
 This policy specifies requirements related to the use of Parallel Markets' computing resources and data assets by Parallel team members so as to protect our customers, team members, contractors, company and other partners from harm caused by both deliberate and inadvertent misuse. Our intention in publishing this policy is to outline information security guidelines intended to protect Parallel Markets' assets, not to impose restrictions.
 
-It is the responsibility of every member of our team to interact with Parallel Markets computing resources and data in a secure manner and to that end we provide the following acceptable use standards related to computing resources, company and customer data, mobile and tablet devices, and removable and external media storage devices.
+It is the responsibility of every member of our team to interact with Parallel Markets' computing resources and data in a secure manner and to that end we provide the following acceptable use standards related to computing resources, company and customer data, mobile and tablet devices, and removable and external media storage devices.
 
 
 ## Table of contents
