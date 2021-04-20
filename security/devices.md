@@ -37,9 +37,15 @@ All personal mobile computing devices used to access Parallel-managed data, incl
 
 ## Company Issued Computers :computer:
 
-All Company issued laptops will have software installed to enable remote lock/wipe in case your laptop is stolen.  Additional guidelines apply to company laptops; you should:
+All Company issued laptops will have software installed to enable:
 
-1. Have full hard drive encryption enabled (for macOS, [use FileVault](https://support.apple.com/en-us/HT204837)).
+ 1. remote lock/wipe in case your laptop is stolen
+ 1. remote monitoring to detect and report malware or viruses
+ 1. remote monitoring to ensure compliance with the [Acceptable Use Policy]({% link security/acceptable-use.md %})
+
+This software should not be disabled or uninstalled.  Additional guidelines apply to company laptops; you should:
+
+1. Have full hard drive encryption enabled (for macOS, [use FileVault](https://support.apple.com/en-us/HT204837))
 1. Never attach external drives (including thumbdrives/jump drives)
 
 ## Network :satellite:
