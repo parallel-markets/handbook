@@ -40,7 +40,7 @@ Use a password manager!  A password manager let you memorize one strong password
 You should use [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (aka, 2 Factor Authentication, aka 2FA) for every service that provides it.  Note that 2FA is mandatory for most Parallel services.
 
 1. Always prefer a time-based one-time password option (a number that changes every 30 seconds) over text message.  SMS 2FA is vulnerable to an attack known as [a SIM Swap](https://www.wired.com/story/sim-swap-attack-defend-phone/).
-1. Use an app like [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&ref_topic=2954345) or [Authy](https://authy.com) to provide your time-based one-time passwords
+1. Use an app like [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&ref_topic=2954345) or [Authy](https://authy.com) to provide your time-based one-time passwords.  Some services support external authentication devices like [Yubikeys](https://www.yubico.com); these are acceptable forms of 2FA as well (though not all services support them).
 1. Some services allow you to download "backup codes" that you can use instead of a time-based code in case you lose your phone (or access to your time-based password generator).  Make sure you store these somewhere safe!
 
 ## Secure Browsing :computer:
