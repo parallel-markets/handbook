@@ -33,7 +33,9 @@ If you are an employee, you should not use your personal devices for any company
 
 ### Personal Mobile Phone and Tablet Usage :iphone:
 
-All personal mobile computing devices used to access Parallel-managed data, including but not limited to email, Slack, and ParallelMarkets.com, must be passcode-enabled. 2FA will be enforced by the Security team for all employee and contractor ParallelMarkets.com and Google Workspace accounts. Mobile computing best practices dictate that these devices should be running the latest version of the operating system available, and all new patches applied. For assistance with determining the suitability of your mobile device, please contact the [Security Team](mailto:security@parallelmarkets.com).
+Incidental personal device usage is permitted for accessing Parallel Markets' email, Slack, Google Workspace tools (Voice, Docs, Drive, etc) and [ParallelMarkets.com](https://app.parallelmarkets.com).
+
+All personal mobile computing devices used to access this Parallel-managed data must be passcode-enabled. 2FA will be enforced by the Security team for all employee and contractor ParallelMarkets.com and Google Workspace accounts. Mobile computing best practices dictate that these devices should be running the latest version of the operating system available, and all new patches applied. For assistance with determining the suitability of your mobile device, please contact the [Security Team](mailto:security@parallelmarkets.com).
 
 ## Company Issued Computers :computer:
 
