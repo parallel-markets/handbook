@@ -20,7 +20,7 @@ Your coworkers are physically distributed, which means any one of them may be in
 For some teams (e.g., customer support, compliance, safety checks, etc.) more coordination may be necessary and certain teams may need to be online at the same times.  Coordination will be up to those teams to appropriately schedule and set clear expectations.
 
 ### Documentation :notebook:
-Since you may be working while your coworkers are not, it is *vitally* important to document everything. Documentation is so important we have included it [in the Company Values]({% link values/index.md %}#write-things-down-notebook).  Documentation is a core foundation for [efficient work]({% link values/index.md %}#efficiency-runner); it allows for text-based, long-term communication.  You should document:
+Since you may be working while your coworkers are not, it is *vitally* important to document everything. Documentation is so important we have included it [in the Company Values]({{ site.baseurl }}{% link values/index.md %}#write-things-down-notebook).  Documentation is a core foundation for [efficient work]({{ site.baseurl }}{% link values/index.md %}#efficiency-runner); it allows for text-based, long-term communication.  You should document:
 
  * Every project, noting the context and reasons for the project's existence, status and ongoing roadmap
  * Every big decision, noting the context, considerations and reasons for the final outcome
@@ -41,14 +41,14 @@ These locations **do not** count as documentation:
  * Email conversations (people who are not on the chain will not have access to it)
 
 ### Goals
-Goals are an important part of our [measurement and tracking value]({% link values/index.md %}#track-and-measure-bar_chart).  You and your manager will agree on personal goals for you, your team and department each have goals, and the company as a whole has goals. Every goal should be:
+Goals are an important part of our [measurement and tracking value]({{ site.baseurl }}{% link values/index.md %}#track-and-measure-bar_chart).  You and your manager will agree on personal goals for you, your team and department each have goals, and the company as a whole has goals. Every goal should be:
 
  * Measurable - you can't fix what you can't measure
- * Attainable - ideas are a dime a dozen, we [focus on outcomes]({% link values/index.md %}#focus-on-outcomes-trophy).
+ * Attainable - ideas are a dime a dozen, we [focus on outcomes]({{ site.baseurl }}{% link values/index.md %}#focus-on-outcomes-trophy).
  * Valuable - they should help the company move forward in a meaningful way
  * Monitored - ideally, in our Looker instance
 
-One of the ways everyone can maintain [individual agency]({% link values/index.md %}#agency) is by ensuring there is accountability at every level to set and then deliver on goals.
+One of the ways everyone can maintain [individual agency]({{ site.baseurl }}{% link values/index.md %}#agency) is by ensuring there is accountability at every level to set and then deliver on goals.
 
 ## Communications Tools
 Since we're [working asynchronously](#asynchronous-work), we need the ability to effectively communicate without relying on lots of [meetings](#ad-hoc-meetings). We use each of the following to aid in our communication.
