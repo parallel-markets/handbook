@@ -5,6 +5,7 @@ title: Parallel Handbook
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 color_scheme: parallel
+baseurl: /handbook
 
 plugins:
   - jekyll-minifier

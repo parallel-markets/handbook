@@ -12,7 +12,7 @@ In April of 2020 the company unanimously agreed to move to a Remote First paradi
 1. You can choose your working hours based on when you're most productive.
 
 ## Company Benefits
-1. We're able to hire great people [no matter where they live](hiring.md).
+1. We're able to hire great people [no matter where they live]({{ site.baseurl }}{% link work/hiring.md %}).
 1. Increased savings on office costs and compensation (due to hiring in lower-cost regions).
 1. Being all-remote naturally attracts self-motivated people.
 1. There are fewer meetings and more focus on results and output of great work.
