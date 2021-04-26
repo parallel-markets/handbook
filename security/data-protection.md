@@ -35,7 +35,7 @@ Examples:
 
 ## Orange :large_orange_diamond:
 
-This is any data subject to laws and regulation that should not be made generally available. This category includes any data for which unauthorized access or disclosure could cause significant or financial material loss, risk of harm to Parallel Markets if exposed to unauthorized parties, break contractual obligations and/or adversely impact Parallel Markets, its partners, users, employees, contractors, and customers.  This data cannot be stored on personal devices (though there are some limited exceptions, see below).
+This is any data subject to laws and regulation that should not be made generally available. This category includes any data for which unauthorized access or disclosure could cause significant or financial material loss, risk of harm to Parallel Markets if exposed to unauthorized parties, break contractual obligations and/or adversely impact Parallel Markets, its partners, users, employees, contractors and customers.  This data cannot be stored on personal devices (though there are some limited exceptions, see below).
 
 Examples:
 
