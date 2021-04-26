@@ -24,6 +24,7 @@ Whether you are an employee with a company laptop or a contractor using your own
 1. Never download/save any customer or user data to your local computer.
 1. When traveling, make sure to completely power off your computer (choose the full "shut down" option, don't just close the lid or "hibernate").
 1. Do not allow your web browser (e.g. Chrome, Safari, Firefox) to store passwords when prompted. This presents an unnecessary risk and is redundant.
+1. Ensure you're familiar with our [data protection]({{ site.baseurl }}{% link security/data-protection.md %}) rules and the data that should not be stored on devices
 
 ## Personal Computers :desktop_computer:
 

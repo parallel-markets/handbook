@@ -53,7 +53,7 @@ Prohibited system and network activities include, but are not limited to, the fo
 
 Forwarding of confidential business emails or documents to personal external email addresses is prohibited.
 
-> Note: Parallel Markets may retrieve messages from archives and servers without prior notice if Parallel has sufficient reason to do so. If deemed necessary, this investigation will be conducted with the knowledge and approval of the Security and Legal Departments.
+> **Note:** Parallel Markets may retrieve messages from archives and servers without prior notice if Parallel has sufficient reason to do so. If deemed necessary, this investigation will be conducted with the knowledge and approval of the Security and Legal Departments.
 
 When utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and they can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of Parallel Markets without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers or our customers.
 
@@ -69,4 +69,4 @@ Any team member or contractor found to be in violation of this policy may be sub
 
 ## Related Documents and Handbook Entries
 
-See the pages on [Devices]({{ site.baseurl }}{% link security/devices.md %}) and [Processes]({% link security/processes.md %}) for additional requirements for employees and contractors.
+See the pages on [Devices]({{ site.baseurl }}{% link security/devices.md %}), [Processes]({{ site.baseurl }}{% link security/processes.md %}) and [Data Protection]({{ site.baseurl }}{% link security/data-protection.md %}) for additional requirements for employees and contractors.

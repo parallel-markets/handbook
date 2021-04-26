@@ -17,3 +17,11 @@ a.navigation-list-link.active {
 }
 
 @media (min-width: 31.25rem) { .site-title { font-size: 20px !important; } }
+
+blockquote {
+    background-color: #eee;
+    padding: 1px 20px 1px 20px;
+    border-radius: 5px;
+    border-left: thick double #188cf0;
+    color: #777;
+}
