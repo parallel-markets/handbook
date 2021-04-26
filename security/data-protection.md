@@ -30,7 +30,7 @@ Examples:
 
  * General internal company communications
  * Vendor contracts
- * Internal policies or proceedures
+ * Internal policies or procedures
  * Business metrics (number of customers, number of users, etc.)
 
 ## Orange :large_orange_diamond:
