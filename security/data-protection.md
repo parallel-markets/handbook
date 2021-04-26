@@ -23,7 +23,7 @@ Examples:
  * Our general product descriptions on [parallelmarkets.com](https://parallelmarkets.com)
  * Public announcements and blog posts
 
-## Yellow :full_moon:
+## Yellow :lemon:
 This is any data and information that should not be made publicly available that is created and used in the normal course of business. Unauthorized access or disclosure could cause minimal risk or harm and/or adversely impact Parallel Markets, its partners, employees, contractors, and customers.  This data can be stored on company devices, Google Workspace and other private cloud environments (so long as the data is not publicly accessible).
 
 Examples:
@@ -33,7 +33,7 @@ Examples:
  * Internal policies or procedures
  * Business metrics (number of customers, number of users, etc.)
 
-## Orange :large_orange_diamond:
+## Orange :orange_book:
 
 This is any data subject to laws and regulation that should not be made generally available. This category includes any data for which unauthorized access or disclosure could cause significant or financial material loss, risk of harm to Parallel Markets if exposed to unauthorized parties, break contractual obligations and/or adversely impact Parallel Markets, its partners, users, employees, contractors and customers.  This data cannot be stored on personal devices (though there are some limited exceptions, see below).
 
