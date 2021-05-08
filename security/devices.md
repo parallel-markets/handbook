@@ -46,10 +46,14 @@ All Company issued laptops will have software installed to enable:
  1. remote monitoring to detect and report malware or viruses
  1. remote monitoring to ensure compliance with the [Acceptable Use Policy]({{ site.baseurl }}{% link security/acceptable-use.md %})
 
-This software should not be disabled or uninstalled.  Additional guidelines apply to company laptops; you should:
+This software should not be disabled or uninstalled.
+
+Additional guidelines apply to company laptops; you should:
 
 1. Have full hard drive encryption enabled (for macOS, [use FileVault](https://support.apple.com/en-us/HT204837))
-1. Never attach external drives (including thumbdrives/jump drives)
+1. Never plug anything into your company computer that was not purchased and approved by Parallel.
+  * This prohibition includes all thumbdrives / jump drives, external hard drives, keyboards, monitors, USB devices, etc. not provided by Parallel.
+  * If you have a personal device you'd like to plug in (for instance, a personal monitor), you may email [security@parallelmarkets.com](mailto:security@parallelmarkets.com) to request a specific exception to this rule.
 
 ## Network :satellite:
 In general, we operate with a stance of [Zero Trust](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/).  We assume that our internal networks could be compromised and seek to secure resources rather than networks.  Given the nature of our [remote workforce]({{ site.baseurl }}{% link work/index.md %}) and our utilization of cloud services, we cannot assume that resources are located within an enterprise-owned network boundary.
