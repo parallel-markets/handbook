@@ -51,6 +51,9 @@ Parallel employees have the ability to contribute to our Slavic401(k) program. A
 ### Home Office Setup
 Since you [work remotely]({{ site.baseurl }}{% link work/index.md %}), we want to make sure your home office is comfortable. You can expense up to $1,000 to furnish your home office, every three years.
 
+### Shared Workspace Reimbursement
+If you'd like to work from a co-working space, Parallel will reimburse up to $1,000 per calendar year for those costs.  Please note that you'll be responsible for any commitments made to the co-working host, so make sure if you sign a long term agreement that you're willing and able to cover any costs above the reimbursable amount.
+
 ### Continuing Education Allowance
 If you’re interested in taking classes that you feel improve you professionally or personally, you have a $1,000 annual stipend to do so. This stipend is also prorated in your first year at Parallel, depending on the month you start. Some people take classes directly related to their careers, while some take photography lessons or learn a musical instrument. It’s up to you; the point is to learn something that you feel enriches you as a person and employee.
 
