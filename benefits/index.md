@@ -70,7 +70,7 @@ We designate ten holidays each calendar year for employees in the United States.
 * Juneteenth
 * Independence Day 
 * Labor Day 
-* Thanksgiving 
+* Thanksgiving Day
 * Christmas Day
 * New Year's Eve
 
