@@ -51,7 +51,8 @@ This software should not be disabled or uninstalled.
 Additional guidelines apply to company laptops; you should:
 
 1. Have full hard drive encryption enabled (for macOS, [use FileVault](https://support.apple.com/en-us/HT204837))
-1. Never plug anything into your company computer that was not purchased and approved by Parallel.
+1. Never connect anything to your company computer that was not purchased and approved by Parallel.
+  * This includes connecting via wires (USB, Thunderbolt, etc) as well as via Bluetooth.
   * This prohibition includes all thumbdrives / jump drives, external hard drives, keyboards, monitors, USB devices, etc. not provided by Parallel.
   * If you have a personal device you'd like to plug in (for instance, a personal monitor), you may email [security@parallelmarkets.com](mailto:security@parallelmarkets.com) to request a specific exception to this rule.
 
