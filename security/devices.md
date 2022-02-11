@@ -54,6 +54,7 @@ Additional guidelines apply to company laptops; you should:
 1. Never connect anything to your company computer that was not purchased and approved by Parallel.
   * This rule includes anything that you physically plug into your computer - including external hubs, lights, keyboards, mice, headphones, etc.  It also includes all thumbdrives / jump drives, external hard drives, keyboards, monitors, USB devices, etc.  If you plug it in, it must have been provided by Parallel or received prior approval.
   * This includes connecting via wires (USB, Thunderbolt, etc) as well as via Bluetooth.
+  * Even the most seemingly innocuous peripheral could potentially pose risk to the company. It is critically important that you seek approval before connecting *any* external device (via wires or Bluetooth). The dangers are [well documented](https://www.sciencedaily.com/releases/2019/02/190225192119.htm) by both [consumer press](https://www.cnet.com/tech/services-and-software/usb-devices-spreading-viruses/) and the [US Government](https://www.cisa.gov/uscert/sites/default/files/publications/RisksOfPortableDevices.pdf).
   * If you have a personal device you'd like to plug in (for instance, a personal monitor or USB hub), you may email [security@parallelmarkets.com](mailto:security@parallelmarkets.com) to request approval.  Make sure to include a link to the product (or the make, model, and description).
 
 ## Network :satellite:
