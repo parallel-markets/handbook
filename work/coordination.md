@@ -33,7 +33,6 @@ Documentation **should** live in these places:
  * This handbook
  * Documents in the appropriate Google Shared Drive
  * GitHub comments for repositories / projects that live there
- * [Clubhouse](#clubhouse) stories and comments
 
 These locations **do not** count as documentation:
 
@@ -63,14 +62,16 @@ Our Slack workspace is one of the main ways we communicate.  In general, we pref
 ### GitHub
 GitHub is used to version all of our product code, technical documentation and other text-based projects like this Handbook.  In general, projects should be public (like this Handbook) unless they are confidential.
 
-### Clubhouse
-We use [Clubhouse](https://clubhouse.io) to keep track of "To Do" lists per project.  Your team may use Clubhouse however it makes everyone more productive, but you should [document your team's process](#documentation-notebook).
-
 ### Email
 Email is a last resort for internal communication (though often the only choice for external communication).
 
 ### Google Hangouts
 Google Hangouts is our preferred video chat service (other than Slack calls for scheduled meetings).  [Please avoid Zoom](https://techcrunch.com/2020/03/31/zoom-at-your-own-risk/) if you can.
+
+### Team Specific Tools
+Some teams use tools unique to their processes.  For instance, the product team uses [Shortcut](https://shortcut.com) for project management, and the sales team uses [Salesforce](https://salesforce.com) to keep track of the status of their work.
+
+Your team may use these tools in whatever way leads to the greatest productivity, though you should make sure to [document your team's process](#documentation-notebook).
 
 ## Ad-hoc Meetings
 :warning: Try to avoid ad-hoc meetings. If one is absolutely necessary, make attendance optional for as many people as possible. 
