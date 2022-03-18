@@ -15,7 +15,7 @@ Since we're not necessarily physically co-located, we have to coordinate effecti
 
 
 ## Asynchronous Work
-Your coworkers are physically distributed, which means any one of them may be in a time zone where they will not even be awake when you are. This necessitates an _asynchronous_ approach to workflows as tightly coupled workflows simply will not work efficiently in a remote work environment. Your work should rarely (if ever) require you to be in constant communication throughout the entire day with a particular person. Our ashynchronous apporach to workflows means we collaborate as though most action items will get an answer eventually, but not necessarily right this second. Your first choice of action should be to post a message or a document about what you need to explain or need to know. Others can read it on their own schedule, when the natural lulls of the day allow it, rather than being interrupted right in their peak flow time. You should be able to work effectively knowing that any of your co-workers may be offline, at any time, for any reason.
+Your coworkers are physically distributed, which means any one of them may be in a time zone where they will not even be awake when you are. This necessitates an _asynchronous_ approach to workflows as tightly coupled workflows simply will not work efficiently in a remote work environment. Your work should rarely (if ever) require you to be in constant communication throughout the entire day with a particular person. Our asynchronous approach to workflows means we collaborate as though most action items will get an answer eventually, but not necessarily right this second. Your first choice of action should be to post a message or a document about what you need to explain or need to know. Others can read it on their own schedule, when the natural lulls of the day allow it, rather than being interrupted right in their peak flow time. You should be able to work effectively knowing that any of your co-workers may be offline, at any time, for any reason.
 
 For some teams (e.g., customer support, compliance, safety checks, etc.) more coordination may be necessary and certain teams may need to be online at the same times.  Coordination will be up to those teams to appropriately schedule and set clear expectations.
 
@@ -74,7 +74,7 @@ Some teams use tools unique to their processes.  For instance, the product team 
 Your team may use these tools in whatever way leads to the greatest productivity, though you should make sure to [document your team's process](#documentation-notebook).
 
 ## Ad-hoc Meetings
-:warning: Try to avoid ad-hoc meetings. If one is absolutely necessary, make attendance optional for as many people as possible. 
+:warning: Try to avoid ad-hoc meetings. If one is absolutely necessary, make attendance optional for as many people as possible.
 
 ### Why to Meet
 Meetings can be useful in certain cases to move a project forward, address a blocker or resolve a miscommunication.  Meetings should not be called to share information (since you should do that with [documentation](#documentation-notebook)).
