@@ -60,4 +60,4 @@ Additional guidelines apply to company laptops; you should:
 ## Network :satellite:
 In general, we operate with a stance of [Zero Trust](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/).  We assume that our internal networks could be compromised and seek to secure resources rather than networks.  Given the nature of our [remote workforce]({{ site.baseurl }}{% link work/index.md %}) and our utilization of cloud services, we cannot assume that resources are located within an enterprise-owned network boundary.
 
-To help reduce networking risks, we utilize [Cloudflare for Teams](https://www.cloudflare.com/teams/).  Everyone should install and utilize the Warp client (instructions can be found [here](https://docs.google.com/document/d/1gd_BvZug6p0SD9j77njP3fSa33nyM3cNOMAbqJ5C7fA/edit)).
+To help reduce networking risks, we utilize [Cloudflare for Teams](https://www.cloudflare.com/teams/).  Everyone should install and utilize the Warp client (downloads can be found [here](https://developers.cloudflare.com/warp-client/get-started/)).
