@@ -23,7 +23,7 @@ Do not sign up for a new service on behalf of Parallel without first receiving p
 This includes signing into web pages and web apps using your @parallelmarkets.com Google sign-in.
 
 ### Passwords
-Use a password manager!  A password manager let you memorize one strong password, and then it generates and manages strong, unique passwords for every site for which you have a login.  Employees can install [LastPass](https://www.lastpass.com/) via the Self Service App that is installed on your company device.
+Use a password manager!  A password manager let you memorize one strong password, and then it generates and manages strong, unique passwords for every site for which you have a login.  Employees can install [LastPass](https://www.lastpass.com/), which should be preloaded on company devices. 
 
 1. Make sure you use a separate password for every service (for instance, your Gmail password should be different than your Slack password).
 1. You should use the password autogeneration capabilities of your password manager to generate secure passwords.  Passwords should:
