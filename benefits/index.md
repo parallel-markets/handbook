@@ -17,10 +17,10 @@ At Parallel, we invest in our employees' well-being and empower them with benefi
 Parallel's medical, dental and vision plans all fall under the Aetna umbrella. Typically, coverage will be available beginning on the first of the month, following your hire date. Details regarding each of these plans follows.
 
 ### Medical Plan Details
-Currently, Parallel offers medical benefits under four different plans: the Aetna D3 EPO, Aetna G3 POS, AETNA C2 WPO, and the Aetna F3 POS (all details can be found [here][1]). Each of these plans includes optionality to cover dependents and spouses.
+Currently, Parallel offers medical benefits under four different Aetna plans that each include an option to cover dependents and spouses (all details can be found [here][1]).
 
 ### Dental Plan Details
-Currently, Parallel offers dental benefits under two different plans, the Aetna Dental DMO and the Aetna Dental PPO (all details can be found [here][1]). Similar to the medical plan, you will have the optionality to cover yourself individually or your entire family. 
+Currently, Parallel offers dental benefits under two different Aetna plans (all details can be found [here][1]). Similar to the medical plan, you will have the optionality to cover yourself individually or your entire family.
 
 ### Vision Plan Details
 Currently, Parallel offers vision benefits under two different plans, the Aetna Vision and Aetna Vision+ plans (all details can be found [here][1]). Similar to the medical and dental plans, you will have the optionality to cover yourself individually or your entire family.
@@ -74,4 +74,4 @@ We designate ten holidays each calendar year for employees in the United States.
 * Christmas Day
 * New Year's Eve
 
-[1]: https://secure.justworks.com/benefits/company_benefits_overviews/7b44def0-2f3e-437b-bc6b-fb31f5dc464f/show
+[1]: https://secure.justworks.com/benefits/company_benefits_overviews/9f88a900-9a1f-4c16-ace0-39ff2c10d913/show
