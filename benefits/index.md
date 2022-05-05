@@ -17,7 +17,7 @@ At Parallel, we invest in our employees' well-being and empower them with benefi
 Parallel's medical, dental and vision plans all fall under the Aetna umbrella. Typically, coverage will be available beginning on the first of the month, following your hire date. Details regarding each of these plans follows.
 
 ### Medical Plan Details
-Currently, Parallel offers medical benefits under four different Aetna plans that each include an option to cover dependents and spouses (all details can be found [here][1]).
+Currently, Parallel offers medical benefits under four different Aetna plans that each include an option to cover your spouse and dependents (all details can be found [here][1]).
 
 ### Dental Plan Details
 Currently, Parallel offers dental benefits under two different Aetna plans (all details can be found [here][1]). Similar to the medical plan, you will have the optionality to cover yourself individually or your entire family.
