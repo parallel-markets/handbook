@@ -52,6 +52,8 @@ One of the ways everyone can maintain [individual agency]({{ site.baseurl }}{% l
 ## Communications Tools
 Since we're [working asynchronously](#asynchronous-work), we need the ability to effectively communicate without relying on lots of [meetings](#ad-hoc-meetings). We use each of the following to aid in our communication.
 
+:warning: You should [never use SMS for business communication](/security/awareness/#text-messages-iphone), even with colleagues.
+
 ### Slack
 Our Slack workspace is one of the main ways we communicate.  In general, we prefer:
 
