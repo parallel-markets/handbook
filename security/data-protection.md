@@ -1,6 +1,6 @@
 ---
 parent: Security Practices
-nav_order: 11
+nav_order: 12
 title: Data Protection
 ---
 # Data Protection
@@ -46,8 +46,9 @@ Examples:
 > **Note:** Some intellectual property may be stored on company devices for those employees who need local access to perform their work.  This includes engineers and designers on the product team, for instance.  This information must be encrypted at rest and approval must be granted by the Security Team before any employee can store Orange data on their Parallel Markets' device.
 
 ## Red :red_circle:
-This data is restricted and must remain confidential. This is Parallel Markets' most sensitive data and access to it should be considered privileged and must be explicitly approved. Exposure of this data to unauthorized parties could cause extreme loss to Parallel Markets and/or its users and customers. In the gravest scenario, exposure of this data could trigger or cause a business extinction event.
+This data is restricted and must remain confidential. This is Parallel Markets' most sensitive data and access to it should be considered privileged and must be explicitly approved. Exposure of this data to unauthorized parties could cause extreme loss to Parallel Markets and/or its users and customers. In the gravest scenario, exposure of this data could trigger or cause a business extinction event. This data can only be stored on Parallel's secure system at [app.parallelmarkets.com](https://app.parallelmarkets.com).
 
 Examples:
 
- * User data (including email addresses, any submitted documentation, authentication information, etc.)
+ * User data (including email addresses, any submitted identity or accreditation documentation, authentication information, etc.)
+ * Business financial and sensitive corporate data (including all documentation submitted as a part of an identity or accreditation flow)

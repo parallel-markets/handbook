@@ -1,6 +1,6 @@
 ---
 parent: Security Practices
-nav_order: 9
+nav_order: 10
 title: Processes
 ---
 # Processes and Proceedures
@@ -49,6 +49,9 @@ The following 2FA methods are acceptable:
 
 ## Secure Browsing :computer:
 
+### Public Computers
+Never sign in to any Parallel Markets related account using public computers, such as library or hotel kiosks.
+
 ### Extensions
 While browser extensions are easy to install and test out, make sure you only install extensions from sources you trust.  Here are a few extensions we do recommend:
 
@@ -63,26 +66,11 @@ Form autofill is [known](https://www.popularmechanics.com/technology/security/a2
 * Google Chrome - go to [address autofill settings](chrome://settings/addresses) and [payment methods settings](chrome://settings/payments)
 * Mozilla Firefox - go to [privacy preferences](about:preferences#privacy) and scroll down to **Forms and Autofill**
 * MS Edge - go to [address autofill settings](edge://settings/addresses) and [payment method settings](edge://settings/payments)
- 
-## Email :email:
-Here are some general guidelines for email:
-
-1. If you get an email that looks suspicious, forward the email to [security@parallelmarkets.com](mailto:security@parallelmarkets.com).
-1. An email can be suspicious, even if it's from someone you know, if there's an unexpected link :link: or attachment :file_folder:.
-1. Don't be afraid to reach out to anyone directly to ask if they sent something you weren't expecting (for instance, reach out on Slack).
-1. Follow the guidelines for identifying phishing emails provided [in this guide](https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email).
- * The Security Team will, from time to time, simulate phishing attacks to our company email addresses to ensure everyone is aware of the threat.
- * If you receive a suspicious email, forward it to [security@parallelmarkets.com](mailto:security@parallelmarkets.com) for analysis before clicking any links or downloading any attachments.
-1. When in doubt, reach out to [security@parallelmarkets.com](mailto:security@parallelmarkets.com) or `#security` in Slack.
-
-## Security Awareness :eyes:
-1. Never sign in to any Parallel Markets related account using public computers, such as library or hotel kiosks.
-1. If you receive a security report of any kind (issue, customer ticket, etc.) never dismiss it as invalid. Please [contact the Security Team](#contacting-security).
-1. Be familiar with the general approaches used in [social engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)), and know that you could be targeted based on your access to highly sensitive personal information.  You should understand the vectors used:
- * [Vishing :phone:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Vishing) - Someone may call you asking for information.  Never share sensitive data over the phone.
- * [Phishing :fishing_pole_and_fish:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Phishing) - You may get an email that looks valid at first glance but contains an attachment with malware or a link to a site that will install malware.
- * [Smishing :iphone:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Smishing) - Be aware of suspicious texts, and don't click links that look suspicious or weren't expected.
 
 ## Contacting Security
 
 Feel free to reach out to the Security Team at any point with questions, concerns, or suspicious emails for analysis at [security@parallelmarkets.com](mailto:security@parallelmarkets.com).  You can also ask for help in the `#security` room in Slack at any time.
+
+## Training :school:
+
+Everyone will be required to review security materials and take a quiz at least every 6 months.

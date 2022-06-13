@@ -52,6 +52,8 @@ One of the ways everyone can maintain [individual agency]({{ site.baseurl }}{% l
 ## Communications Tools
 Since we're [working asynchronously](#asynchronous-work), we need the ability to effectively communicate without relying on lots of [meetings](#ad-hoc-meetings). We use each of the following to aid in our communication.
 
+> :warning: **Warning:** You should [never use SMS for business communication](/security/awareness/#text-messages-iphone), even with colleagues.
+
 ### Slack
 Our Slack workspace is one of the main ways we communicate.  In general, we prefer:
 
@@ -74,10 +76,10 @@ Some teams use tools unique to their processes.  For instance, the product team 
 Your team may use these tools in whatever way leads to the greatest productivity, though you should make sure to [document your team's process](#documentation-notebook).
 
 ## Ad-hoc Meetings
-:warning: Try to avoid ad-hoc meetings. If one is absolutely necessary, make attendance optional for as many people as possible.
 
-### Why to Meet
-Meetings can be useful in certain cases to move a project forward, address a blocker or resolve a miscommunication.  Meetings should not be called to share information (since you should do that with [documentation](#documentation-notebook)).
+Ad-hoc meetings can be useful in certain cases to move a project forward, address a blocker or resolve a miscommunication.  Meetings should not be called to share information (since you should do that with [documentation](#documentation-notebook)).
+
+> **Note:** Try to avoid ad-hoc meetings. If one is absolutely necessary, make attendance optional for as many people as possible.
 
 ### How to Meet
 Every meeting should:
