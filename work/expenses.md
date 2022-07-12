@@ -33,8 +33,6 @@ Parallel will generally reimburse employees for business travel expenses incurre
 
 Employees must travel on the lowest-priced coach airfare available, taking into consideration preferred airports, preferred arrival and departure times, connection times and other restrictions, including cancellation and change fees. Premium fares, such as fares for first-class or business-class travel, are reimbursable only in circumstances that have been approved in advance by the People Ops team.
 
-Employees must travel on the lowest-priced coach airfare available, taking into consideration preferred airports, preferred arrival and departure times, connection times and other restrictions, including cancellation and change fees. Premium fares, such as fares for first-class or business-class travel, are reimbursable only in circumstances that have been approved in advance by the People Ops team.
-
 **Baggage Fees:** Airline charges for checked baggage are reimbursable in any of the following circumstances:
 
  * The employee is transporting materials belonging to Parallel.
