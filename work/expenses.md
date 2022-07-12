@@ -152,7 +152,7 @@ If an employee receives an excess reimbursement, the employee must report and re
 
 **Payment Date:** Parallel will reimburse an employee for reimbursable expenses promptly following the date on which the employee submits a completed expense reimbursement form that includes all required approvals and substantiating documentation, but in any event no later than December 31 of the calendar year following the calendar year in which the expense is incurred.
 
-**Section 409A of the Internal Revenue Code:** Reimbursements under this policy are intended to comply with  Internal Revenue Code Section 409A and applicable guidance issued thereunder or an exemption from the application of Section 409A.
+**Section 409A of the Internal Revenue Code:** Reimbursements under this policy are intended to comply with Internal Revenue Code Section 409A and applicable guidance issued thereunder or an exemption from the application of Section 409A.
 
 Accordingly, all provisions of this policy shall be construed and administered in accordance with Section 409A. The amount of reimbursements provided under this policy in any calendar year shall not affect the amount of reimbursements provided during any other calendar year and the right to reimbursements hereunder cannot be liquidated or exchanged for any other benefit.
 
