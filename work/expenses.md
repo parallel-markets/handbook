@@ -6,7 +6,7 @@ title: Expenses
 # Travel and Expense Reimbursement
 {: .no_toc }
 
-It is Parallel Market's practice to reimburse employees for reasonable expenses incurred in connection with travel and other business on behalf of Parallel, subject to the guidelines and procedures set out in this policy. The specific types of expenses that may be reimbursed and procedures for requesting reimbursement are set out below with examples. Employees must obtain advance written approval from their manager prior to incurring any expense and must retain receipts or other appropriate substantiating documentation for all travel and other business expenses incurred in order to be eligible for reimbursement.
+It is Parallel Markets' practice to reimburse employees for reasonable expenses incurred in connection with travel and other business on behalf of Parallel, subject to the guidelines and procedures set out in this policy. The specific types of expenses that may be reimbursed and procedures for requesting reimbursement are set out below with examples. Employees must obtain advance written approval from their manager prior to incurring any expense and must retain receipts or other appropriate substantiating documentation for all travel and other business expenses incurred in order to be eligible for reimbursement.
 
 This policy is intended to be an "accountable plan" under the Internal Revenue Code and relevant Treasury Regulations.
 
