@@ -52,7 +52,7 @@ Consider the time investment you are asking others to make.  For instance, try t
 ### Communal Hats :tophat:
 We value [initiative](#bias-for-action-clapper) and a [feeling of ownership](#agency-raised_hands).  If you see something that needs to be done, and you have the ability to help, then do it.  Whether this is cleaning up a communal area, writing up a suggestion for a new user feature or helping recruit for an open position in a different department - your help is not only ideal, it is required.  The phrase "not my job" isn't something that should ever prevent you from taking on a task that needs to be done.  Everyone wears many hats, hats that are communally owned by everyone.
 
-### Prefer Boring Solutions :potted_plant:
+### Prefer Boring Solutions :herb:
 The simplest (and most boring) solution is most often the best.  The more direct, simple and easily explained a solution is, the better.  Be [generous](#generosity-pray) to those employees who will maintain your solution or project over the long term.
 
 ## Focus on Outcomes :trophy:
@@ -67,4 +67,4 @@ You can't improve what you can't measure, and you can't claim success if you can
 If something can break, and breaking is bad, track it.  If there's an important process the Company relies on, make sure you can tell when it's broken.
 
 ### Bias for Action :clapper:
-Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes.  Our bias for action also allows us to course correct quickly when mistakes are made.  We don't take the easy path of general complaints without including and supporting the groups that can effect change. In short: innovate, iterate, err, improve and repeat. 
+Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes.  Our bias for action also allows us to course correct quickly when mistakes are made.  We don't take the easy path of general complaints without including and supporting the groups that can effect change. In short: innovate, iterate, err, improve and repeat.
