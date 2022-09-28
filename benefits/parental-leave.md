@@ -17,7 +17,7 @@ Parallel aims to be supportive of our employees throughout the various stages of
 The People Ops team is responsible for the administration of this policy (the "Policy").  If you have any questions regarding this Policy or if you have questions about pregnancy or parental leave that are not addressed in this Policy, please contact the People Ops team ([people@parallelmarkets.com](mailto:people@parallelmarkets.com)).
 
 ## Procedures
-If you intend to  take parental leave for the birth of your child or to care for a new adopted or foster child, you should provide advance notice to your supervisor or the People Ops team. When possible, you should give at least 30 days' notice of your request for leave. If 30 days’ notice is not possible because of medical necessity or for other reasons, you should give as much advance notice to Parallel as possible.
+If you intend to take parental leave for the birth of your child or to care for a new adopted or foster child, you should provide advance notice to your supervisor or the People Ops team. When possible, you should give at least 30 days' notice of your request for leave. If 30 days notice is not possible because of medical necessity or for other reasons, you should give as much advance notice to Parallel as possible.
 
 Written notice is preferred, but not required.
 
