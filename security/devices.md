@@ -18,7 +18,7 @@ If you are an employee, Parallel will send you a laptop that you will use to do 
 
 Whether you are an employee with a company laptop or a contractor using your own computer, you are expected to follow these guidelines:
 
-1. Make sure you have your screensaver set to lock your computer after a short period of activity (and require a password).
+1. Make sure you have your screensaver set to lock your computer after a short period of inactivity (and require a password).
 1. Never leave your phone or laptop unattended in a public place (for instance, [at a coffeeshop]({{ site.baseurl }}{% link work/where.md %}#coffee-shops-coffee-and-co-working-spaces)).  Even if you leave your computer alone with a stranger for only a minute, [quick physical access is all that's required to hack your computer](https://en.wikipedia.org/wiki/Physical_access).
 1. Ensure all of the important files on your devices are backed up [in one of our tools]({{ site.baseurl }}{% link work/coordination.md %}#communications-tools).  All computers eventually die, act as though yours could expire any day.
 1. Never download/save any customer or user data to your local computer.
