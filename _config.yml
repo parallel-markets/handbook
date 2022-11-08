@@ -22,8 +22,6 @@ search_enabled: true
 aux_links:
   "Parallel Home": "https://about.parallelmarkets.com"
 
-gtm_id: GTM-NLM5KSZ
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
