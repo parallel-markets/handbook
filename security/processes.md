@@ -23,7 +23,7 @@ Do not sign up for a new service on behalf of Parallel without first receiving p
 This includes signing into web pages and web apps using your @parallelmarkets.com Google sign-in.
 
 ### Passwords
-A password manager must be used for generating and storing all of your company passwords (and you should use one for your personal passwords, too). A password manager let you memorize one strong password, and then it generates and manages strong, unique passwords for every site for which you have a login.  At Parallel, all employees are required to use the password manager [1Password](https://1password.com), which should be preloaded on company devices.
+A password manager must be used for generating and storing all of your company passwords (and you should use one for your personal passwords, too). A password manager lets you memorize one strong password, and then it generates and manages strong, unique passwords for every site for which you have a login.  At Parallel, all employees are required to use the password manager [1Password](https://1password.com), which should be preloaded on company devices.
 
 1. Make sure you use a separate password for every service (for instance, your Gmail password should be different than your Slack password).
 1. You should use the password autogeneration capabilities of your password manager to generate secure passwords.  Passwords should:
