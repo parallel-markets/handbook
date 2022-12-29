@@ -26,9 +26,9 @@ This includes signing into web pages and web apps using your @parallelmarkets.co
 A password manager must be used for generating and storing all of your company passwords (and you should use one for your personal passwords too). A password manager lets you memorize one strong password, and then it generates and manages strong, unique passwords for every site for which you have a login.  At Parallel, all employees are required to use the password manager [1Password](https://1password.com), which should be preloaded on company devices.
 
 1. Make sure you use a separate password for every service (for instance, your Gmail password should be different than your Slack password).
-1. You should use the password autogeneration capabilities of your password manager to generate secure passwords.  Passwords should:
- * have a minimum length of 12 characters
- * never be reused - whether across services or on the same service
+1. You must use the password autogeneration capabilities of your password manager to generate secure passwords.  The generated passwords:
+ * should have a minimum length of 12 characters
+ * should never be reused - whether across services or on the same service
  * should not be the same as username
  * should not be predictable (for instance, follow a pattern across services)
 1. Don't share passwords (with co-workers, friends, strangers, or any other people, living or dead :ghost:).  Every person should have their own account on every service.
