@@ -55,7 +55,6 @@ Never sign in to any Parallel Markets related account using public computers, su
 ### Extensions
 While browser extensions are easy to install and test out, make sure you only install extensions from sources you trust.  Here are a few extensions we do recommend:
 
-* [HTTPS Everywhere](https://www.eff.org/https-everywhere) - ensure that you only visit sites that support encrypted HTTP
 * [Privacy Badger](https://privacybadger.org) - A tool from the EFF, Privacy Badger automatically learns to block invisible trackers.
 * [uBlock Origin](https://github.com/gorhill/uBlock#installation) - blocks ads and the data they collect
 
