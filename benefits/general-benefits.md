@@ -32,6 +32,10 @@ If you’re interested in taking classes that you feel improve you professionall
 
 If you’d like to make use of your continuing education allowance, first submit the class(es) to the [People Ops Team](mailto:people@parallelmarkets.com) for approval. If approved, you’ll purchase the classes and submit all receipts to the [People Ops Team](mailto:people@parallelmarkets.com) for reimbursement up to the limit of your remaining stipend.
 
+## 1Password for Your Family
+
+Security is core to our product and culture. [We use 1Password as our password manager]({{ site.baseurl }}{% link security/processes.md %}#passwords) by policy at work and, as a benefit, you can open a [1Password Family plan](https://1password.com/families/) for free. If you already have a paid 1Password account for you or your family, opting in to have it paid for is simple and requires no changes to your existing Vaults or accounts.
+
 ## Unlimited Paid Time Off
 We trust our employees and our process. Autonomy and self-reliance/management are some of our most important [values]({{ site.baseurl }}{% link values/index.md %}#agency-raised_hands). We want to give you the flexibility to take as much time as you need so long as [your work gets done and gets done well]({{ site.baseurl }}{% link values/index.md %}#focus-on-outcomes-trophy).
 
