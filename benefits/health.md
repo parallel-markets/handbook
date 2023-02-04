@@ -17,10 +17,10 @@ Parallel provides health insurance along with additional health benefits.
 Parallel's medical, dental and vision plans all fall under the Aetna umbrella. Typically, coverage will be available beginning on the first of the month, following your hire date. You will be required to designate your desired plan when you join Parallel and again each November when our health insurance policy renews. Details regarding each of these plans follows.
 
 ### Medical Plan Details
-Currently, Parallel offers medical benefits under four different Aetna plans that each include an option to cover your spouse and dependents (all details can be found [here][1]).
+Currently, Parallel offers medical benefits under different Aetna plans that each include an option to cover your spouse and dependents (all details can be found [here][1]).
 
 ### Dental Plan Details
-Currently, Parallel offers dental benefits under two different Aetna plans (all details can be found [here][1]). Similar to the medical plan, you will have the optionality to cover yourself individually or your entire family.
+Currently, Parallel offers dental benefits under different Aetna plans (all details can be found [here][1]). Similar to the medical plan, you will have the optionality to cover yourself individually or your entire family.
 
 ### Vision Plan Details
 Currently, Parallel offers vision benefits under two different plans, the Aetna Vision and Aetna Vision+ plans (all details can be found [here][1]). Similar to the medical and dental plans, you will have the optionality to cover yourself individually or your entire family.
@@ -40,3 +40,5 @@ As part of Parallel's enrollment in JustWorks' health plans, our employees have 
 
 ### Teladoc
 As part of Parallel's enrollment in Justworks' health plans, our employees have access to Teladoc at no additional charge. Teladoc helps employees access on-demand health insurance anytime, from almost anywhere. Teladoc offers virtual health services, which allows you to speak to a physician via phone or video. That means a physician is always just a call, click or swipe away. You will be able to access the Teladoc portal and sign up by clicking on "Benefits" in your JustWorks account. You can find more details about Teladoc [here](https://help.justworks.com/hc/en-us/articles/360004530231-Teladoc).
+
+[1]: https://secure.justworks.com/benefits/company_benefits_overviews/8917b5d1-6ea3-4845-8c1c-8aaf85c340a5/show
