@@ -4,7 +4,7 @@ nav_order: 1
 ---
 _Last updated [{{ site.time | date: '%B %d, %Y' }}](https://github.com/parallel-markets/handbook/commits/master)._
 
-## The Parallel Markets Employee Handbook
+## The Parallel Markets Handbook
 ### Everything you need to know about making a career at Parallel Markets
 
 This Handbook first came into existence in April of 2020, as the Parallel team unanimously agreed to move to a [Remote First](work/index.md) paradigm.  Although the switch came directly as a result of the uncertainty brought about by COVID-19, we believe enshrining a set of values and work practices is an exercise that will make us stronger in the long term.
