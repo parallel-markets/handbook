@@ -56,7 +56,7 @@ Employees using a personal vehicle for business purposes should ensure that thei
 
 ### Ground Transportation
 
-Employees will be reimbursed for ordinary and reasonably priced ground transportation, including buses, shuttles, taxis and car services to and from airports or railroad stations and between the employee's hotel and other business-related locations.
+Employees will be reimbursed for ordinary and reasonably priced ground transportation, including buses, shuttles, taxis and car services to and from airports or railroad stations and between the employee's hotel and other business-related locations.  Public transportation is strongly preferred over taxis and car services whenever available.
 
 ### Rail Transportation
 
