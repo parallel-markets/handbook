@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.4.2)
+    activesupport (7.0.4.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -207,7 +207,7 @@ GEM
     json (2.6.3)
     json-minify (0.0.3)
       json (> 0)
-    just-the-docs (0.4.1)
+    just-the-docs (0.4.2)
       jekyll (>= 3.8.5)
       jekyll-seo-tag (>= 2.0)
       rake (>= 12.3.1)
