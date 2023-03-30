@@ -22,7 +22,7 @@ Parallel employees have the ability to contribute to our Slavic401(k) program. A
 ## Home Office Setup
 Parallel will provide all of the equipment you need to do your job (for instance, a company laptop). These items are owned by Parallel Markets and must be returned to the company upon separation. We also offer a home office stipend to help you make your [remote work]({{ site.baseurl }}{% link work/index.md %}) more productive and comfortable. For example, you may want a more comfortable desk chair or a particular brand of noise-canceling headphones.  Unlike items Parallel may purchase for you, items purchased with your home office stipend are yours to keep. Parallel will reimburse up to $1,000 every three years. Note that the home office stipend is treated as taxable income.
 
-If you’d like to make use of your home office stipend, first submit the item(s) you'd like to your manager for approval. If approved, you’ll purchase the item(s) yourself and submit all receipts to the [People Ops Team](mailto:people@parallelmarkets.com) for reimbursement up to the limit of your remaining stipend.
+If you’d like to make use of your home office stipend, first submit the item(s) you'd like to your manager for approval. If approved, you’ll purchase the item(s) yourself and submit all receipts via [Expensify](https://expensify.com) for reimbursement up to the limit of your remaining stipend.
 
 ## Shared Workspace Reimbursement
 If you'd like to work from a co-working space, Parallel will reimburse up to $1,000 per calendar year for those costs.  Please note that you'll be responsible for any commitments made to the co-working host, so make sure if you sign a long term agreement that you're willing and able to cover any costs above the reimbursable amount.
@@ -30,7 +30,7 @@ If you'd like to work from a co-working space, Parallel will reimburse up to $1,
 ## Continuing Education Allowance
 If you’re interested in taking classes that you feel improve you professionally or personally, you have a $1,000 annual stipend to do so. This stipend is also prorated in your first year at Parallel, depending on the month you start. Some people take classes directly related to their careers, while some take photography lessons or learn a musical instrument. It’s up to you; the point is to learn something that you feel enriches you as a person and employee.  Note that the continuing education allowance is treated as taxable income.
 
-If you’d like to make use of your continuing education allowance, first submit the class(es) to the [People Ops Team](mailto:people@parallelmarkets.com) for approval. If approved, you’ll purchase the classes and submit all receipts to the [People Ops Team](mailto:people@parallelmarkets.com) for reimbursement up to the limit of your remaining stipend.
+If you’d like to make use of your continuing education allowance, first submit the class(es) to the [People Ops Team](mailto:people@parallelmarkets.com) for approval. If approved, you’ll purchase the classes and submit all receipts via [Expensify](https://expensify.com) for reimbursement up to the limit of your remaining stipend.
 
 ## 1Password for Your Family
 
