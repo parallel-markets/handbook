@@ -6,7 +6,7 @@ title: Data Protection
 # Data Protection
 {: .no_toc }
 
-This page contains details on data classification levels with acceptable storage requirements for each.
+This page contains details on data classification levels with acceptable storage requirements for each.  At no point should any company data be stored in personal cloud accounts or on devices that weren't issued by the company.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,7 +24,7 @@ Examples:
  * Public announcements and blog posts
 
 ## Yellow :lemon:
-This is any data and information that should not be made publicly available that is created and used in the normal course of business. Unauthorized access or disclosure could cause minimal risk or harm and/or adversely impact Parallel Markets, its partners, employees, contractors, and customers.  This data can be stored on company devices, Google Workspace and other private cloud environments (so long as the data is not publicly accessible).
+This is any data and information that should not be made publicly available that is created and used in the normal course of business. Unauthorized access or disclosure could cause minimal risk or harm and/or adversely impact Parallel Markets, its partners, employees, contractors, and customers.  This data can be stored on company devices and the company's Google Drive (so long as the data is not publicly accessible).
 
 Examples:
 
@@ -35,7 +35,7 @@ Examples:
 
 ## Orange :orange_book:
 
-This is any data subject to laws and regulation that should not be made generally available. This category includes any data for which unauthorized access or disclosure could cause significant or financial material loss, risk of harm to Parallel Markets if exposed to unauthorized parties, break contractual obligations and/or adversely impact Parallel Markets, its partners, users, employees, contractors and customers.  This data cannot be stored on personal devices (though there are some limited exceptions, see below).
+This is any data subject to laws and regulation that should not be made generally available. This category includes any data for which unauthorized access or disclosure could cause significant or financial material loss, risk of harm to Parallel Markets if exposed to unauthorized parties, break contractual obligations and/or adversely impact Parallel Markets, its partners, users, employees, contractors and customers.  This data cannot be stored on company devices (though there are some limited exceptions, see below).
 
 Examples:
 
