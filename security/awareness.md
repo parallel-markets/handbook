@@ -63,6 +63,6 @@ Here are some important things to know about phone calls:
 
 For those Parallel employees providing support to our users and partners, there are some special things you should know.
 
- 1. If you receive a security report of any kind (issue, customer ticket, etc.) never dismiss it as invalid. Please [contact the Security Team](/security/processes/#contacting-security).
+ 1. If you receive a security report of any kind (issue, customer ticket, etc.) never dismiss it as invalid. Please [contact the Security Team]({{ site.baseurl }}{% link security/processes.md %}#contacting-security).
  1. If you receive a suspicious customer support message in Zendesk (including any messages asking you to click links or download files), send a link to the Zendesk ticket (and any helpful background) to [security@parallelmarkets.com](mailto:security@parallelmarkets.com). _Do not click any links_, the Security Team will respond with instructions.
  1. Never share user or customer data via our customer support channels; private data should only ever live on [app.parallelmarkets.com](https://app.parallelmarkets.com).
