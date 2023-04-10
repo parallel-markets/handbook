@@ -51,6 +51,7 @@ This software should not be disabled or uninstalled.
 Additional guidelines apply to company laptops; you should:
 
 1. Have full hard drive encryption enabled (for macOS, [use FileVault](https://support.apple.com/en-us/HT204837))
+1. Always make sure to completely power off your computer (choose the full "shut down" option, don’t just close the lid or "hibernate") whenever the device is not by your side or in your home. This includes any time the device may be at heightened risk of theft (when left in a hotel room, going through airport security, in a car, etc.).
 1. Never connect anything to your company computer that was not purchased and approved by Parallel.
   * This rule includes anything that you physically plug into your computer - including external hubs, lights, keyboards, mice, headphones, etc.  It also includes all thumbdrives / jump drives, external hard drives, keyboards, monitors, USB devices, etc.  If you plug it in, it must have been provided by Parallel or received prior approval.
   * This includes connecting via wires (USB, Thunderbolt, etc) as well as via Bluetooth.

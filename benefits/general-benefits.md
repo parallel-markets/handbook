@@ -53,4 +53,4 @@ We designate ten holidays each calendar year for employees in the United States.
 * Christmas Day
 * New Year's Eve
 
-[1]: https://secure.justworks.com/benefits/company_benefits_overviews/9f88a900-9a1f-4c16-ace0-39ff2c10d913/show
+For employees outside of the United States, please confer with your manager to determine which holidays will be applicable to your employment.
