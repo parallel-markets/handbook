@@ -72,4 +72,6 @@ Feel free to reach out to the Security Team at any point with questions, concern
 
 ## Training :school:
 
-Everyone will be required to review security materials and take a quiz at least every 6 months.
+All employees and contractors must adhere to the security practices and policies outlined in the handbook and demonstrate an understanding of the requirements by participating in a semi-annual assement.
+
+Any employee or contractor who is unable to demonstrate an understanding of the requirements and fails (based on the company's criteria) more than two assessments in a row may be subject to disciplinary action, up to and including termination of employment or contractual agreement.
