@@ -23,6 +23,7 @@ Here are some things you should keep in mind:
  1. You should never engage / respond to any messages you think are suspicious
  1. You should always send suspicious messages to [security@parallelmarkets.com](mailto:security@parallelmarkets.com) immediately
  1. Our company’s survival depends on your vigilance. If you run malware or share credentials with a bad actor, you could kill Parallel (our company could be destroyed by a leak)
+ 1. If you accidentally do something you shouldn't have (clicking a suspicious link, responding to a spear phishing text, etc.) - don't panic! Email [security@parallelmarkets.com](mailto:security@parallelmarkets.com) for help ensuring your systems and Parallel data are safeguarded.
 
 ## Email :email:
 
