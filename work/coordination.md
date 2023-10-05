@@ -103,4 +103,4 @@ Regularly scheduled meetings have specific, on-going purposes. A team’s regula
 Teams should generally have a "standup" meeting each day.  Team members should share what they did the previous workday, what they intend on accomplishing for the current day and any blockers to their work in a team standup [Slack](#slack) channel _before_ the meeting.  The standup meeting can then consist solely of talking through blockers, considering the remaining week's goals and sharing any immediate questions.
 
 ### Weekly All-hands
-The weekly all-hands meeting is a chance for company leadership to share (already documented) company updates and take questions from anyone.  There may be presentations from teams to share details of their particular work or recent projects.
+The weekly all-hands meeting is a chance for company leadership to share company updates and take questions from anyone.  There may be presentations from teams to share details of their particular work or recent projects.
