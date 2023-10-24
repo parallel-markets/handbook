@@ -27,7 +27,7 @@ Here are some things you should keep in mind:
 
 ## Email :email:
 
-You may get an email that looks valid at first glance but contains an attachment with malware or a link to a site that will install malware. Emails can also attempt to trick you into providing credentials or other sensitive information (this is known as [phishing :fishing_pole_and_fish:](https://en.wikipedia.org/wiki/Social_engineering_(security)#Phishing)).
+You may get an email that looks valid at first glance but contains an attachment with malware or a link to a site that will install malware. Emails can also attempt to trick you into providing credentials or other sensitive information (this is known as [phishing :fishing_pole_and_fish:](https://en.wikipedia.org/wiki/Phishing)).
 
 Here are some general guidelines for email:
 
