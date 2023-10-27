@@ -37,7 +37,7 @@ A password manager must be used for generating and storing all of your company p
 1. If an account or password is suspected to have been compromised,  [contact the Security Team](#contacting-security) immediately.
 
 ### Multi-Factor Authentication :iphone:
-You must use [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (aka, 2 Factor Authentication, aka 2FA) for every service that provides support, including all third-party tools and company applications.  This second factor requirement can help prevent unauthorized users from being able to access accounts if one piece of evidence (such as password) is compromised.  Note that 2FA is mandatory for most Parallel services.
+You must use [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (aka, 2 Factor Authentication, aka 2FA) for every service that provides support, including all third-party tools and company applications.  This second factor requirement can help prevent unauthorized users from being able to access accounts if one piece of evidence (such as password) is compromised.  Note that 2FA is mandatory for all Parallel services that support it.  As with passwords, you should never share 2FA codes with anyone, ever (including any co-workers, family, friends, enemies, frenemies or complete strangers).
 
 The following 2FA methods are acceptable:
 
