@@ -68,7 +68,9 @@ Form autofill is [known](https://www.popularmechanics.com/technology/security/a2
 
 ## Contacting Security
 
-Feel free to reach out to the Security Team at any point with questions, concerns, or suspicious emails for analysis at [security@parallelmarkets.com](mailto:security@parallelmarkets.com).  You can also ask for help in the `#security` room in Slack at any time.
+Any suspicious messages or potential security issues (virus alerts, unexpected laptop behavior, external claim that our site has been hacked, etc) should be reported _immediately_ to [security@parallelmarkets.com](mailto:security@parallelmarkets.com).
+
+If you have general questions about security best practices, or general policy / procedure questions, feel free to reach out in the `#security` room in Slack at any time.
 
 ## Training :school:
 
