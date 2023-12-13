@@ -120,7 +120,7 @@ Employees must present receipts and other substantiating documentation itemizing
 
 ## Expense Reimbursement Requests
 
-Employees may request reimbursement for business-related expenses incurred in accordance with this policy by obtaining written approval from their manager and submitting all receipts and appropriate substantiating documentation as required by this policy to the People Ops team via [expenses@parallelmarkets.com](mailto:expenses@parallelmarkets.com).
+Employees may request reimbursement for business-related expenses incurred in accordance with this policy by obtaining written approval from their manager and submitting all receipts and appropriate substantiating documentation as required by this policy via our vendor Expensify.  For instructions on how to access Expensify and submit expenses please reach out to [expenses@parallelmarkets.com](mailto:expenses@parallelmarkets.com).
 
 Submissions for expense reimbursement must include original receipts or other appropriate substantiating documentation for each expense showing:
 
@@ -140,7 +140,7 @@ Expense reimbursement forms relating to the business use of an employee's person
 
 If a receipt or other substantiating documentation is not available, the employee must submit a written explanation of why the documentation cannot be provided. Parallel, in its sole discretion, will evaluate the explanation and determine whether the expense is reimbursable.
 
-Employees must submit expense reimbursement forms to the People Ops team within 60 days of incurring the expense. Parallel will not reimburse employees for any expenses submitted after this deadline.
+Employees must submit expense reimbursement forms to Expensify within 60 days of incurring the expense. Parallel will not reimburse employees for any expenses submitted after this deadline.
 
 The People Ops team will verify that expenses are permissible and that documentation is adequate and accurate. Parallel reserves the right to refuse any expense reimbursement request that is inaccurate, does not include the appropriate substantiating documentation, is submitted late, or otherwise fails to fully comply with Parallel's policy, as determined by Parallel in its sole discretion.
 
